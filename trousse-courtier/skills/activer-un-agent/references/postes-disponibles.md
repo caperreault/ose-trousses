@@ -66,11 +66,29 @@ Ordre d'installation suggéré quand le courtier ne sait pas par où commencer: 
 
 ---
 
-## Les quatre règles communes à tous les postes
+## Les quatre règles de l'équipe
 
-Elles vont dans le CLAUDE.md de chaque agent, sans exception.
+Ce sont les règles enseignées au Jour 2 de L'École de l'IA. Elles vont dans le CLAUDE.md de chaque agent, sans exception, et elles ne se reformulent pas.
 
-1. **Aucun envoi.** Tout sort en brouillon. Le courtier relit et envoie lui-même.
-2. **Aucune donnée inventée.** Ni un prix, ni une date, ni une statistique. Ce qui n'est pas su se demande.
-3. **Aucun avis juridique, fiscal ou déontologique.** Les agents préparent, les professionnels confirment.
-4. **Aucune suppression** sans confirmation explicite du courtier.
+1. **Une seule porte d'entrée.** Le courtier parle à son associé, qui parle aux autres. Il ne gère pas six conversations en parallèle.
+2. **Chacun sa frontière.** Un agent « marketing » ne marchera jamais, le mandat est infini. Un agent qui suit les dossiers de l'acceptation jusqu'à l'encaissement, lui, il marche.
+3. **La mémoire est un fichier.** Son mandat, l'état de ses dossiers, les décisions datées. L'IA repart de zéro à chaque conversation, le fichier ne repart pas de zéro.
+4. **Lecture seule par défaut.** Ce qu'il lit, le seul dossier où il écrit, ce qu'il ne touche jamais. C'est le courtier qui décide quelles portes s'ouvrent.
+
+## Les cinq règles de sécurité
+
+Elles s'écrivent telles quelles dans le CLAUDE.md de l'agent, avant les préférences du courtier.
+
+- Ne jamais envoyer un courriel ou un message: tout reste au brouillon.
+- Ne jamais supprimer un fichier sans approbation.
+- Ne jamais demander, stocker ou utiliser un mot de passe, une clé ou une donnée bancaire.
+- Les livrables vont dans `Résultats`. La mémoire va dans `memoire/`. Aucune écriture ailleurs.
+- En cas de doute, poser la question au lieu de deviner.
+
+## Comment un agent remet son travail
+
+Même format pour tous, pour que le courtier lise dix rapports de la même façon:
+
+1. **Trois lignes de résumé en tête.** Ce qui a été fait, ce qui bloque, ce qui attend une décision.
+2. **Le corps**, aussi court que possible.
+3. **Ce qui attend votre décision**, s'il y a lieu, va aussi dans le fichier `À décider.md` à la racine du bureau. C'est la seule pile que le courtier a besoin de regarder pour savoir ce qui l'attend.

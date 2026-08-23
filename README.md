@@ -18,7 +18,7 @@ C'est tout. Aucun terminal, aucune manipulation de fichiers. Ensuite, écrivez `
 
 ## Ce qu'il y a dedans
 
-**La trousse du courtier** installe quinze compétences, cinq postes d'agents prêts à activer et trois raccourcis, pour la pratique d'un courtier immobilier du Québec. Le détail est dans [le mode d'emploi de la trousse](trousse-courtier/README.md).
+**La trousse du courtier** installe seize compétences, cinq postes d'agents prêts à activer et trois raccourcis, pour la pratique d'un courtier immobilier du Québec. Le détail est dans [le mode d'emploi de la trousse](trousse-courtier/README.md).
 
 ## Mettre à jour
 

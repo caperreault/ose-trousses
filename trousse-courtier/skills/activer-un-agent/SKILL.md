@@ -70,6 +70,8 @@ Ne recopiez jamais le contenu d'un fichier dans le CLAUDE.md de l'agent. Deux co
 
 Ajoutez une ligne dans le `CLAUDE.md` de la racine: le nom de l'agent, son mandat en une phrase, son chemin. C'est ce qui fait que l'assistant principal sait qu'il existe.
 
+Remplissez ensuite sa ligne dans la carte de routage du CLAUDE.md de la racine: sans ça, l'associé ne saura pas quand lui passer la demande, et le poste restera muet.
+
 Vérifiez aussi que la section « Qui répond ici » du CLAUDE.md de la racine nomme bien l'associé du courtier comme porte d'entrée. Si elle manque, écrivez-la: c'est elle qui fait qu'une conversation ouverte dans le bureau tombe sur son équipe et non sur un assistant générique. La compétence `fondation` en donne le gabarit.
 
 Puis proposez **un test tout de suite**, une vraie tâche, pas un test. « Demandez-lui son premier rapport. » Un agent qu'on ne teste pas le jour où on le monte ne sert jamais.

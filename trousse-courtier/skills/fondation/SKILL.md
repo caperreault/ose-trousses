@@ -67,6 +67,27 @@ Adaptez le prénom à celui que le courtier a choisi. S'il n'a pas encore d'asso
 
 **Ne recopiez jamais le contenu du CLAUDE.md de l'associé dans celui de la racine.** Vous écrivez où aller lire.
 
+### La carte de routage
+
+Sous la section « Qui répond ici », écrivez la table qui dit qui fait quoi. C'est elle qui fait qu'une demande arrive au bon coéquipier au lieu de se perdre.
+
+```
+## Qui fait quoi
+
+| Ce que je demande | Qui s'en occupe |
+|---|---|
+| Mes suivis, qui appeler, mes anciens clients | [Prénom] |
+| Un dossier en cours, ses conditions, ses dates | [Prénom] |
+| Mes dépenses, mes reçus, mon comptable | [Prénom] |
+| Mes publications, mes textes | [Prénom] |
+| Les chiffres de mon secteur, un prix à défendre | [Prénom] |
+| Une clause, un avis juridique ou fiscal | Personne. Mon dirigeant d'agence, mon notaire, ou Info OACIQ |
+
+Tout le reste, l'associé le fait lui-même.
+```
+
+N'inscrivez que les postes qui existent vraiment. Un poste non encore activé se marque « pas encore monté », jamais un prénom inventé. Quand la compétence `activer-un-agent` monte un poste, elle vient remplir sa ligne ici.
+
 ### Le reste de la table des matières
 
 **Vous écrivez où aller lire, jamais quoi lire.** Ne recopiez jamais le contenu d'un fichier dans le CLAUDE.md. Deux copies de la même information finissent toujours par se contredire, et c'est le courtier qui paie la facture six mois plus tard.
@@ -81,7 +102,22 @@ Le défaut classique: la liste nomme `../../À propos de moi/ma-voix.md` alors q
 
 Pour chaque chemin mort: soit le fichier existe sous un autre nom et vous corrigez le chemin, soit il n'existe pas et vous retirez la ligne en la notant pour le rapport.
 
-## Étape 5: le calendrier IA
+## Étape 5: la pile de ce qui attend une décision
+
+Cherchez `À décider.md` à la racine du bureau. S'il n'existe pas, créez-le, avec un en-tête et rien d'autre:
+
+```
+# À décider
+
+Ce que mes agents ont trouvé et qui attend ma décision. Une ligne par item,
+datée, avec ce qui bloque et ce que je dois trancher. Je raye ce qui est réglé.
+```
+
+C'est la seule pile que le courtier a besoin de regarder pour savoir ce qui l'attend. Sans elle, chaque agent garde ses questions dans sa propre mémoire et le courtier ne les voit jamais toutes ensemble.
+
+Notez son existence dans le `CLAUDE.md` de la racine, pour que tous les agents sachent où écrire.
+
+## Étape 6: le calendrier IA
 
 Demandez au courtier s'il a un calendrier séparé pour son assistant. La plupart n'en ont pas.
 
@@ -95,13 +131,13 @@ Donnez-lui le geste selon son outil. Une seule fois, sans faire un cours:
 
 Quand c'est fait, notez le nom exact du calendrier dans le CLAUDE.md, section des règles. Toutes les autres compétences le liront là.
 
-## Étape 6: la routine du matin
+## Étape 7: la routine du matin
 
 Vérifiez si le courtier a une routine du matin dans son bureau. Sinon, écrivez `Projets/ma-routine-du-matin.md` avec la commande de son brief quotidien, et montrez-lui comment la lancer.
 
 Ne la lancez pas maintenant. Ses connexions ne sont peut-être pas branchées, et un brief vide au premier essai fait mauvaise impression. Dites-lui simplement où elle est et quand l'utiliser.
 
-## Étape 7: le rapport
+## Étape 8: le rapport
 
 Court. Quatre lignes maximum, dans cet ordre:
 

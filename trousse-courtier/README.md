@@ -35,6 +35,7 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 | **Humaniser** | Enlève le son de robot d'un texte, garde le vôtre |
 | **Vérifier une ressource** | Regarde un fichier téléchargé avant que vous l'ouvriez |
 | **Activer un agent** | Ajoute un coéquipier à votre équipe, un poste à la fois |
+| **Boucle de révision** | Votre correction descend dans le bon fichier, au lieu de mourir avec la conversation |
 
 ## Les raccourcis
 
