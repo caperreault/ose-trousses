@@ -1,12 +1,20 @@
 {
   "name": "trousse-courtier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Le bureau augmenté du courtier immobilier du Québec. Une fondation qui répare et complète votre bureau IA, des compétences pour le travail qui revient chaque semaine, et une équipe d'agents à activer un poste à la fois. L'IA prépare, le courtier décide.",
   "author": {
     "name": "OSE Coaching Immobilier",
     "url": "https://osecoaching.com"
   },
   "homepage": "https://osecoaching.com",
-  "keywords": ["courtage immobilier", "Québec", "courtier", "OSE Coaching", "École de l'IA", "OACIQ", "Centris"],
+  "keywords": [
+    "courtage immobilier",
+    "Québec",
+    "courtier",
+    "OSE Coaching",
+    "École de l'IA",
+    "OACIQ",
+    "Centris"
+  ],
   "license": "SEE LICENSE IN LICENCE.md"
 }

@@ -76,13 +76,15 @@ Vérifiez si le courtier a une routine du matin dans son bureau. Sinon, écrivez
 
 Ne la lancez pas maintenant. Ses connexions ne sont peut-être pas branchées, et un brief vide au premier essai fait mauvaise impression. Dites-lui simplement où elle est et quand l'utiliser.
 
-## Étape 7: la ligne à corriger dans ses réglages
+## Étape 7: la règle à corriger dans ses réglages
 
 Vous ne pouvez pas lire les réglages de son application. Vous pouvez seulement lui donner le geste.
 
-Dites-lui: dans vos réglages, la ligne qui commence par « Ne me demande jamais de renseignements personnels de mes clients » est trop large. Elle va bloquer votre assistant quand vous lui donnerez une vraie promesse d'achat à traiter. Remplacez-la par celle-ci:
+Dites-lui: dans vos instructions globales, la règle qui commence par « Ne me demande jamais de renseignements personnels de mes clients » est trop large. Elle va bloquer votre assistant le jour où vous lui donnerez une vraie promesse d'achat à traiter. Remplacez-la par celle-ci:
 
-> Les noms et prénoms de mes clients, de mes collaborateurs et de mes fournisseurs sont normaux dans notre travail: utilise-les sans me proposer de les anonymiser. Ce qui ne doit jamais entrer dans une conversation, c'est un numéro d'assurance sociale, un numéro de compte ou de carte, un montant de dépôt, ou un mot de passe. Si j'en colle un par erreur, signale-le tout de suite.
+> Les noms de mes clients, de mes collaborateurs et de mes fournisseurs font partie de mon travail: utilise-les normalement et ne me propose jamais de les anonymiser. Ce qui ne doit jamais entrer dans une conversation: un numéro d'assurance sociale, un numéro de compte ou de carte, une copie de pièce d'identité, un mot de passe. Si j'en colle un par erreur, signale-le tout de suite.
+
+Ne lui faites pas chercher la ligne parmi les autres. Le geste le plus rapide est de tout sélectionner dans la boîte et de recoller son bloc au complet, corrigé.
 
 Une règle trop large finit par bloquer le travail utile. Celle-ci protège ce qui compte vraiment et laisse passer le reste.
 
