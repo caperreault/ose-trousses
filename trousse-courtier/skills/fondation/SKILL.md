@@ -44,6 +44,31 @@ C'est le coeur du travail. Ce fichier est le premier que vous lirez chaque fois 
 3. **Ses agents**, s'il en a: le nom, le mandat en une ligne, le chemin.
 4. **Ses règles permanentes**: aucun envoi, aucune donnée inventée, aucun avis juridique ou fiscal.
 
+### La section qui manque presque toujours: qui répond ici
+
+C'est la partie qui transforme un dossier bien rangé en bureau qui fonctionne. Sans elle, le courtier ouvre une conversation dans son bureau et tombe sur un assistant générique qui ne sait pas que son associé existe.
+
+Écrivez cette section en tête du CLAUDE.md, juste après les trois lignes qui disent qui il est:
+
+```
+## Qui répond ici
+
+[Prénom de l'associé] est la porte d'entrée de ce bureau. Toute conversation
+ouverte ici est une conversation avec lui: son mandat, son ton et ses règles
+s'appliquent dès le premier message.
+
+Avant de répondre, lis « Mes agents/[Prénom]/CLAUDE.md », puis sa mémoire.
+
+Il délègue aux autres agents de l'équipe quand la demande est leur métier,
+et il révise ce qu'ils produisent avant de me le remettre.
+```
+
+Adaptez le prénom à celui que le courtier a choisi. S'il n'a pas encore d'associé, écrivez la section quand même, avec une ligne qui dit qu'aucun associé n'est encore bâti et que la compétence `activer-un-agent` sert à en monter un.
+
+**Ne recopiez jamais le contenu du CLAUDE.md de l'associé dans celui de la racine.** Vous écrivez où aller lire.
+
+### Le reste de la table des matières
+
 **Vous écrivez où aller lire, jamais quoi lire.** Ne recopiez jamais le contenu d'un fichier dans le CLAUDE.md. Deux copies de la même information finissent toujours par se contredire, et c'est le courtier qui paie la facture six mois plus tard.
 
 Si le fichier existe déjà et qu'il est rempli: ne l'écrasez pas. Ajoutez ce qui manque, corrigez les chemins morts, laissez le reste intact.
@@ -76,19 +101,7 @@ Vérifiez si le courtier a une routine du matin dans son bureau. Sinon, écrivez
 
 Ne la lancez pas maintenant. Ses connexions ne sont peut-être pas branchées, et un brief vide au premier essai fait mauvaise impression. Dites-lui simplement où elle est et quand l'utiliser.
 
-## Étape 7: la règle à corriger dans ses réglages
-
-Vous ne pouvez pas lire les réglages de son application. Vous pouvez seulement lui donner le geste.
-
-Dites-lui: dans vos instructions globales, la règle qui commence par « Ne me demande jamais de renseignements personnels de mes clients » est trop large. Elle va bloquer votre assistant le jour où vous lui donnerez une vraie promesse d'achat à traiter. Remplacez-la par celle-ci:
-
-> Les noms de mes clients, de mes collaborateurs et de mes fournisseurs font partie de mon travail: utilise-les normalement et ne me propose jamais de les anonymiser. Ce qui ne doit jamais entrer dans une conversation: un numéro d'assurance sociale, un numéro de compte ou de carte, une copie de pièce d'identité, un mot de passe. Si j'en colle un par erreur, signale-le tout de suite.
-
-Ne lui faites pas chercher la ligne parmi les autres. Le geste le plus rapide est de tout sélectionner dans la boîte et de recoller son bloc au complet, corrigé.
-
-Une règle trop large finit par bloquer le travail utile. Celle-ci protège ce qui compte vraiment et laisse passer le reste.
-
-## Étape 8: le rapport
+## Étape 7: le rapport
 
 Court. Quatre lignes maximum, dans cet ordre:
 
