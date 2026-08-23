@@ -1,0 +1,131 @@
+{
+  "secteur": "VOTRE-SECTEUR",
+  "commentaire": "Copie de travail par courtier : renommer (ex. config-monsecteur.json), inscrire le secteur et les gammes DÉCIDÉES avec le courtier à l'étape 2 du skill. 'max' null = et plus. Le chemin du gabarit se passe en argument --gabarit (celui de assets/ par défaut).",
+  "gabarit": "assets/template stat de marché OSE Coaching.xlsm",
+  "feuille_gabarit": "Feuil1",
+  "types": [
+    {
+      "nom_feuille": "Unifamiliale",
+      "etiquette": "Unifamiliales",
+      "valeurs_matrix": [
+        "Plain-pied",
+        "À étages",
+        "Cottage",
+        "Maison à paliers",
+        "Unifamiliale",
+        "De plain-pied",
+        "À paliers multiples"
+      ],
+      "tranches": [
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        }
+      ]
+    },
+    {
+      "nom_feuille": "Copropriété",
+      "etiquette": "Copropriétés",
+      "valeurs_matrix": [
+        "Appartement",
+        "Copropriété",
+        "Condo",
+        "Maison de ville"
+      ],
+      "tranches": [
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        }
+      ]
+    },
+    {
+      "nom_feuille": "Plex",
+      "etiquette": "Plex",
+      "valeurs_matrix": [
+        "Duplex",
+        "Triplex",
+        "Quadruplex",
+        "Quintuplex",
+        "Plex"
+      ],
+      "tranches": [
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        },
+        {
+          "min": 0,
+          "max": null
+        }
+      ]
+    }
+  ],
+  "series_inscrites_format": {
+    "commentaire": "Format du JSON --inscrites : series -> nom de type -> b1..b5 -> année -> 12 valeurs (janv à déc), tirées du module Statistiques de Matrix (voir references/procedure-matrix.md, section C).",
+    "series": {
+      "Unifamiliale": {
+        "b1": {
+          "2024": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  }
+}

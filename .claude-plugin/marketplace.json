@@ -1,0 +1,19 @@
+{
+  "name": "ose-trousses",
+  "owner": {
+    "name": "OSE Coaching Immobilier",
+    "email": "info@osecoaching.com",
+    "url": "https://osecoaching.com"
+  },
+  "metadata": {
+    "description": "Les trousses d'outils d'OSE Coaching Immobilier pour les courtiers du Québec.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "trousse-courtier",
+      "source": "./trousse-courtier",
+      "description": "Le bureau augmenté du courtier immobilier du Québec: les compétences, l'équipe d'agents et les raccourcis remis aux participants de L'École de l'IA."
+    }
+  ]
+}

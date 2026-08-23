@@ -1,0 +1,100 @@
+{
+  "source": "Matrix, module STATISTIQUES, Personnaliser : Ventes Nombre et Nouvelles inscriptions nombre, regroupées par Mois, 5 années passées.",
+  "notes": "Remplacer par les vraies séries du secteur. 12 valeurs par année (janv à déc). Inscrites = NOUVELLES inscriptions du mois, jamais l'inventaire en vigueur.",
+  "ventes": {
+    "Unifamiliale": {
+      "b1": {
+        "2024": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "2025": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "2026": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "inscrites": {
+    "Unifamiliale": {
+      "b1": {
+        "2024": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "2025": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "2026": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}
