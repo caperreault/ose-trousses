@@ -2,11 +2,11 @@
 
 Cinq coéquipiers déjà pensés pour la pratique d'un courtier immobilier du Québec. Chaque fiche donne le mandat, la frontière et les livrables. Le courtier choisit le prénom, vous adaptez le reste à sa pratique.
 
-Ordre d'installation suggéré quand le courtier ne sait pas par où commencer: les suivis d'abord, parce que c'est là que l'argent se perd le plus vite.
+Les trois premiers sont ceux présentés en formation. Les deux derniers s'ajoutent quand le courtier en a besoin. Ordre suggéré quand il ne sait pas par où commencer: la prospection et les suivis d'abord, parce que c'est là que l'argent se perd le plus vite.
 
 ---
 
-## 1. Les suivis et la prospection
+## 1. Prospection et suivis
 
 **Mandat.** Tenir la liste des gens à contacter et préparer les messages. Anciens clients, prospects actifs, références reçues, contacts d'une visite libre. Il sait qui n'a pas eu de nouvelles depuis trop longtemps et pourquoi il faudrait l'appeler aujourd'hui.
 
@@ -18,7 +18,7 @@ Ordre d'installation suggéré quand le courtier ne sait pas par où commencer: 
 
 ---
 
-## 2. Le coordonnateur de transactions
+## 2. Transactions
 
 **Mandat.** Suivre les dossiers de l'acceptation de la promesse d'achat jusqu'à la signature chez le notaire. Les conditions et leurs dates, les documents attendus, les partenaires à relancer, ce qui approche et ce qui traîne.
 
@@ -30,7 +30,7 @@ Ordre d'installation suggéré quand le courtier ne sait pas par où commencer: 
 
 ---
 
-## 3. La comptabilité
+## 3. Comptabilité
 
 **Mandat.** Classer les dépenses au fur et à mesure, tenir le relevé de l'année, et préparer le dossier que le comptable recevra. Il sait ce qui manque avant que le courtier le découvre en avril.
 
@@ -42,7 +42,7 @@ Ordre d'installation suggéré quand le courtier ne sait pas par où commencer: 
 
 ---
 
-## 4. Le contenu et les réseaux sociaux
+## 4. Contenu et clients
 
 **Mandat.** Préparer les publications, les textes et les infolettres du courtier, dans sa voix. Il connaît son secteur, ses inscriptions et ses sujets récurrents.
 
@@ -54,7 +54,7 @@ Ordre d'installation suggéré quand le courtier ne sait pas par où commencer: 
 
 ---
 
-## 5. La veille de marché
+## 5. Veille de marché
 
 **Mandat.** Suivre ce qui se passe dans le secteur du courtier: ce qui se vend, à quel prix, en combien de temps, et ce qui reste sur le marché. Préparer la matière qui sert à expliquer un prix à un vendeur.
 

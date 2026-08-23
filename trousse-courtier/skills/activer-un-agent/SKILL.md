@@ -70,7 +70,9 @@ Ne recopiez jamais le contenu d'un fichier dans le CLAUDE.md de l'agent. Deux co
 
 Ajoutez une ligne dans le `CLAUDE.md` de la racine: le nom de l'agent, son mandat en une phrase, son chemin. C'est ce qui fait que l'assistant principal sait qu'il existe.
 
-Remplissez ensuite sa ligne dans la carte de routage du CLAUDE.md de la racine: sans ça, l'associé ne saura pas quand lui passer la demande, et le poste restera muet.
+Remplissez ensuite sa ligne dans le registre de l'équipe: sans ça, l'associé ne saura pas quand lui passer la demande, et le poste restera muet. Le registre vit dans `AI_CONTEXT.md` si le courtier en a un, sinon dans le `CLAUDE.md` de la racine.
+
+**Au quatrième poste seulement**, quand deux agents peuvent se disputer une même demande, sortez le routage fin dans `Mes agents/[Associé]/regles/carte-routage.md`: quelle demande va à qui, et quoi faire quand deux postes conviennent. Avant le quatrième, le registre suffit et un fichier de plus est du poids mort.
 
 Vérifiez aussi que la section « Qui répond ici » du CLAUDE.md de la racine nomme bien l'associé du courtier comme porte d'entrée. Si elle manque, écrivez-la: c'est elle qui fait qu'une conversation ouverte dans le bureau tombe sur son équipe et non sur un assistant générique. La compétence `fondation` en donne le gabarit.
 

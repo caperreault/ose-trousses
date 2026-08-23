@@ -67,26 +67,35 @@ Adaptez le prénom à celui que le courtier a choisi. S'il n'a pas encore d'asso
 
 **Ne recopiez jamais le contenu du CLAUDE.md de l'associé dans celui de la racine.** Vous écrivez où aller lire.
 
-### La carte de routage
+### Le registre de l'équipe, et où il va
 
-Sous la section « Qui répond ici », écrivez la table qui dit qui fait quoi. C'est elle qui fait qu'une demande arrive au bon coéquipier au lieu de se perdre.
+Le bureau du courtier se lit sur trois étages, et chaque chose a le sien. C'est ce qui fait qu'il pourra changer d'outil un jour sans tout reperdre.
+
+| Étage | Ce qu'on y met | Le fichier |
+|---|---|---|
+| **1. Source de vérité** | Les faits: qui il est, sa pratique, qui compose son équipe | `AI_CONTEXT.md` s'il existe, sinon le `CLAUDE.md` |
+| **2. Instructions** | Comment l'outil doit se comporter, qui répond ici | `CLAUDE.md` |
+| **3. Spécialistes** | Le détail du travail de chacun, les règles de routage fines | `Mes agents/` |
+
+**Le registre de l'équipe est un fait, pas une instruction.** Écrivez-le à l'étage 1: `AI_CONTEXT.md` si le courtier en a un, sinon le `CLAUDE.md` de la racine. Une ligne par poste, rien de plus:
 
 ```
-## Qui fait quoi
+## Mon équipe
 
-| Ce que je demande | Qui s'en occupe |
-|---|---|
-| Mes suivis, qui appeler, mes anciens clients | [Prénom] |
-| Un dossier en cours, ses conditions, ses dates | [Prénom] |
-| Mes dépenses, mes reçus, mon comptable | [Prénom] |
-| Mes publications, mes textes | [Prénom] |
-| Les chiffres de mon secteur, un prix à défendre | [Prénom] |
-| Une clause, un avis juridique ou fiscal | Personne. Mon dirigeant d'agence, mon notaire, ou Info OACIQ |
+| Poste | Qui | Ce qu'il fait |
+|---|---|---|
+| Associé | [Prénom] | Ma porte d'entrée. Il connaît tout mon contexte |
+| Prospection et suivis | [Prénom] | Listes d'appels, références, dossiers sans prochaine action |
+| Transactions | [Prénom] | Conditions, dates d'échéance, documents qui manquent |
+| Contenu et clients | [Prénom] | Publications, infolettre, suivis après une visite |
 
-Tout le reste, l'associé le fait lui-même.
+Une clause, un avis juridique ou fiscal: personne ici. Mon dirigeant
+d'agence, mon notaire, ou Info OACIQ.
 ```
 
-N'inscrivez que les postes qui existent vraiment. Un poste non encore activé se marque « pas encore monté », jamais un prénom inventé. Quand la compétence `activer-un-agent` monte un poste, elle vient remplir sa ligne ici.
+N'inscrivez que les postes qui existent vraiment. Un poste non monté ne s'écrit pas.
+
+**Le routage fin ne va pas là.** Tant que le courtier a deux ou trois postes, le registre suffit: son associé lit la table et sait à qui passer la demande. À partir du quatrième poste, quand deux agents peuvent se disputer une demande, le détail sort dans `Mes agents/[Associé]/regles/carte-routage.md`. C'est la compétence `activer-un-agent` qui le créera à ce moment-là, pas avant. Un fichier de routage pour deux agents est du poids mort.
 
 ### Le reste de la table des matières
 
