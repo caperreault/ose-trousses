@@ -1,6 +1,6 @@
 ---
 name: humaniser
-description: Humaniseur français. Rend n'importe quel texte naturel et humain, en français québécois : courriels, publications, articles, scripts vidéo, pages web. Élimine les tics d'IA (tiret cadratin, vocabulaire de robot, structures répétitives, cadence hachée). Déclencher avec /humaniser-fr, « humanise ça », « ça sonne IA », « rends ça naturel ». Une fois invoquée, reste active pour toute la conversation. Adaptation française du human-skill de Mariah Brunner, calibrée pour les marques du courtier.
+description: Humaniseur français. Rend n'importe quel texte naturel et humain, en français québécois (courriels, publications, articles, scripts vidéo, pages web). Élimine les tics d'IA (tiret cadratin, vocabulaire de robot, structures répétitives, cadence hachée). Déclencher avec /humaniser-fr, « humanise ça », « ça sonne IA », « rends ça naturel ». Une fois invoquée, reste active pour toute la conversation. Adaptation française du human-skill de Mariah Brunner, calibrée pour les marques du courtier.
 ---
 
 # /humaniser-fr : l'humaniseur
