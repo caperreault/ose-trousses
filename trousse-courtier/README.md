@@ -8,7 +8,7 @@ Une règle traverse tout le système et ne se négocie jamais: **l'IA prépare, 
 
 ## La bonne façon de commencer
 
-1. **Écrivez `/verifier-mon-bureau`.** Elle regarde votre bureau, répare ce qui manque, complète ce qui est vide, et vous dit en quatre lignes où vous en êtes. Deux minutes.
+1. **Tapez `/` dans la boîte, écrivez « trousse », choisissez `verifier-mon-bureau`.** Elle regarde votre bureau, répare ce qui manque, complète ce qui est vide, et vous dit en quatre lignes où vous en êtes. Deux minutes.
 2. **Testez tout de suite.** Demandez-lui un courriel de suivi pour votre dernier acheteur. Vous allez voir la différence entre un assistant qui vous connaît et un assistant générique.
 3. **Ajoutez UN poste.** Quand une tâche revient trop souvent, dites « monte-moi l'agent qui s'occupe de ça ». Un poste à la fois. Quand celui-là roule et que vous êtes prêt pour le suivant, vous le dites. C'est votre rythme, pas le nôtre.
 
@@ -39,11 +39,13 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 
 ## Les raccourcis
 
+Tapez `/` dans la boîte de conversation et écrivez « trousse » : les trois apparaissent dans la liste, précédés du nom de la trousse.
+
 | Raccourci | Ce qu'il lance |
 |---|---|
-|  `/verifier-mon-bureau` | La vérification de votre bureau |
-| `/mon-matin` | Votre journée sur une page |
-| `/trousse` | Ce que la trousse contient, et quoi faire ensuite |
+| `verifier-mon-bureau` | La vérification de votre bureau |
+| `mon-matin` | Votre journée sur une page |
+| `trousse` | Ce que la trousse contient, et quoi faire ensuite |
 
 ## Les cinq postes d'agents
 

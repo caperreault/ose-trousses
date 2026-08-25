@@ -4,17 +4,21 @@
 
 ## Installer la trousse du courtier
 
-Dans l'application Claude, onglet Code, ouvrez votre dossier « Mon bureau IA ». Dans la boîte de conversation, tapez ces deux lignes, une à la fois:
+L'installation se fait dans l'application Claude, par le navigateur de plugins. Le chemin est le même sur Mac et sur PC. Aucun terminal, aucune manipulation de fichiers.
+
+1. Ouvrez l'application Claude, onglet Code.
+2. Cliquez le bouton **+** à côté de la boîte de message, puis **Plugins**, puis **Ajouter un plugin**.
+3. Collez l'adresse de la boutique et validez :
 
 ```
-/plugin marketplace add caperreault/ose-trousses
+https://github.com/caperreault/ose-trousses
 ```
 
-```
-/plugin install trousse-courtier@ose-trousses
-```
+4. Installez **trousse-courtier**.
+5. Fermez la conversation et **ouvrez-en une nouvelle** dans votre dossier « Mon bureau IA ». Une conversation charge ses plugins à l'ouverture : celle qui existait avant l'installation ne verra jamais la trousse.
+6. Tapez **/** dans la boîte, écrivez « trousse », choisissez **verifier-mon-bureau** dans la liste.
 
-C'est tout. Aucun terminal, aucune manipulation de fichiers. Ensuite, écrivez `/verifier-mon-bureau` et laissez la trousse vérifier votre installation.
+Les commandes `/plugin ...` qu'on voit dans la documentation sont réservées au terminal. Dans l'application, tout passe par le navigateur de plugins.
 
 ## Ce qu'il y a dedans
 
@@ -22,13 +26,7 @@ C'est tout. Aucun terminal, aucune manipulation de fichiers. Ensuite, écrivez `
 
 ## Mettre à jour
 
-Quand une version corrigée est publiée, une seule ligne:
-
-```
-/plugin update trousse-courtier@ose-trousses
-```
-
-Vos fichiers, vos agents et vos réglages ne sont pas touchés. Seule la trousse change.
+Quand une version corrigée est publiée : rouvrez **Ajouter un plugin** et réinstallez **trousse-courtier**. Vos fichiers, vos agents et vos réglages ne sont pas touchés, seule la trousse change. Ouvrez ensuite une nouvelle conversation.
 
 ## Une règle traverse tout
 
