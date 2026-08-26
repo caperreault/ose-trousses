@@ -7,7 +7,7 @@
 L'installation se fait dans l'application Claude, par le navigateur de plugins. Le chemin est le même sur Mac et sur PC. Aucun terminal, aucune manipulation de fichiers.
 
 1. Ouvrez l'application Claude, onglet Code.
-2. Cliquez le bouton **+** à côté de la boîte de message, puis **Plugins**, puis **Ajouter un plugin**.
+2. Cliquez le bouton **+** à côté de la boîte de message, puis **Plugins**, puis **Parcourir les plugins**, ensuite le **+** et **Ajouter depuis un dépôt**. (Ça fonctionne aussi par les paramètres : Plugin, ajouter, ajouter une place de marché, Ajouter depuis un dépôt.)
 3. Collez l'adresse de la boutique et validez :
 
 ```
@@ -26,7 +26,7 @@ Les commandes `/plugin ...` qu'on voit dans la documentation sont réservées au
 
 ## Mettre à jour
 
-Quand une version corrigée est publiée : rouvrez **Ajouter un plugin** et réinstallez **trousse-courtier**. Vos fichiers, vos agents et vos réglages ne sont pas touchés, seule la trousse change. Ouvrez ensuite une nouvelle conversation.
+Quand une version corrigée est publiée : rouvrez **Parcourir les plugins** et réinstallez **trousse-courtier**. Vos fichiers, vos agents et vos réglages ne sont pas touchés, seule la trousse change. Ouvrez ensuite une nouvelle conversation.
 
 ## Une règle traverse tout
 
