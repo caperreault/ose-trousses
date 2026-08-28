@@ -7,7 +7,9 @@
 L'installation se fait dans l'application Claude, par le navigateur de plugins. Le chemin est le même sur Mac et sur PC. Aucun terminal, aucune manipulation de fichiers.
 
 1. Ouvrez l'application Claude, onglet Code.
-2. Cliquez le bouton **+** à côté de la boîte de message, puis **Plugins**, puis **Parcourir les plugins**, ensuite le **+** et **Ajouter depuis un dépôt**. (Ça fonctionne aussi par les paramètres : Plugin, ajouter, ajouter une place de marché, Ajouter depuis un dépôt.)
+2. Cliquez le bouton **+** à côté de la boîte de message, puis **Plugins**, puis **Parcourir les plugins**, ensuite le **+** et **Ajouter depuis un dépôt**.
+
+   > **Partez toujours du bouton + de la conversation.** Ne passez pas par **Personnaliser** dans la barre latérale: ce chemin-là alimente l'onglet Cowork, pas l'onglet Code. La boutique s'ajoute sans erreur et la trousse n'apparaît jamais dans vos conversations. C'est la cause n° 1 des installations qui échouent.
 3. Collez l'adresse de la boutique et validez :
 
 ```
