@@ -19,7 +19,7 @@ Ne reproduis jamais le gabarit OSE de mémoire et ne le reconstitue pas à l'ide
 - **Propriétés Vendues** : le nombre de ventes du mois. Dans le module Statistiques : « Ventes, Nombre ».
 - **Propriétés Inscrites** : les NOUVELLES inscriptions entrées en marché ce mois-là (peu importe leur sort ensuite), PAS l'inventaire en vigueur. Dans le module Statistiques : « Nouvelles inscriptions, nombre ». C'est l'offre contre la demande, la définition officielle du gabarit.
 - **Plex** : catégorie « Propriété à revenus » avec genres Duplex à Quintuplex, uniquement. Jamais dans le commercial, et un immeuble à revenus de plus de 5 logements n'est pas un plex.
-- Le critère de prix de chaque passe exclut naturellement les locations : toujours l'utiliser.
+- **Le critère de prix est ce qui exclut les locations, et on n'en veut jamais dans les tableaux.** Dans Matrix, le statut Vendu inclut les baux loués : sans critère de prix, le module compte les ventes ET les locations. Une location n'a pas de prix de vente, alors dès qu'un critère de prix existe, peu importe sa largeur, elle sort du décompte. Chaque passe porte donc un critère de prix, sans exception, en copropriété comme en unifamiliale.
 
 ## Ce qu'il faut avant de commencer
 
@@ -48,7 +48,7 @@ Verser les 30 séries dans un JSON au format de `scripts/donnees-exemple.json`, 
 
 ### 5. Vérifier AVANT de livrer
 
-Règle absolue : un fichier généré se teste dans le logiciel qui va l'ouvrir. Ouvre chaque classeur dans Excel (ferme Excel d'abord s'il traîne une vieille copie), lis les totaux des feuilles Année et recoupe-les avec les séries extraites. Contre-vérification de cohérence : la somme des gammes d'une année doit recouper le total sans filtre de prix à quelques unités près (l'écart, ce sont les locations). Un écart inexpliqué = on cherche avant de livrer.
+Règle absolue : un fichier généré se teste dans le logiciel qui va l'ouvrir. Ouvre chaque classeur dans Excel (ferme Excel d'abord s'il traîne une vieille copie), lis les totaux des feuilles Année et recoupe-les avec les séries extraites. Contre-vérification de cohérence : la somme des 5 gammes d'une année doit recouper, au chiffre près, le total du même type obtenu avec UN critère de prix qui couvre tout (« 0 $ et plus »). C'est le test des bornes, et un écart veut dire un trou ou un chevauchement entre les gammes : on cherche avant de livrer. Ne jamais recouper contre le total SANS critère de prix : celui-là compte les locations avec les ventes et il est beaucoup plus gros, souvent le double en copropriété. Voir le contrôle D de `references/procedure-matrix.md`.
 
 ## Garde-fous permanents
 

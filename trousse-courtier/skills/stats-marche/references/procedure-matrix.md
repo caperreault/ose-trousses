@@ -17,7 +17,7 @@ Le menu Statistique offre aussi « Prix de vente, moyen », « Prix demandé, mo
 
 - **Localisation** : Région, puis Municipalité/Arrondissement.
 - **Catégorie** : Unifamiliale; ou Copropriété/Appartement résidentiel; ou **Propriété à revenus AVEC Genre de propriété = Duplex, Triplex, Quadruplex, Quintuplex** pour les plex (les plex ne sont QUE là, jamais dans le commercial).
-- **Prix Demandé/Vendu = la gamme** (formats : `0-1199999`, `1200000-1599999`, `2500000+`). Ce critère exclut les locations.
+- **Prix Demandé/Vendu = la gamme** (formats : `0-1199999`, `1200000-1599999`, `2500000+`). Ce critère est ce qui exclut les locations, parce qu'une location n'a pas de prix de vente. Une passe sans critère de prix compte les baux loués avec les ventes.
 - Générer, puis onglet **Données** : la table Mois x Années.
 
 **Vérification obligatoire à chaque passe** : la ligne de critères affichée sous la table (catégorie, municipalité, prix, statistique) doit correspondre exactement à la passe demandée. On ne garde jamais des chiffres sans cette vérification.
@@ -35,9 +35,10 @@ Entre les passes : onglet Recherche (`__doPostBack('m_btnCriteria','')`), change
 
 ## D. Contrôles de cohérence avant de générer
 
-1. La somme des 5 gammes d'une année doit recouper le total du même type SANS filtre de prix, à quelques unités près (l'écart = les locations, qui n'ont pas de prix de vente).
-2. Les totaux annuels doivent être plausibles pour le secteur (un total qui double d'une passe à l'autre = un critère resté collé, refaire la passe).
-3. Sur un marché mince (moins de 20 ventes en 3 ans), chaque chiffre se relit deux fois.
+1. **Le test des bornes.** La somme des 5 gammes d'une année doit recouper, au chiffre près, le total du même type obtenu avec UN critère de prix qui couvre tout (« 0 $ et plus »). Un écart ici veut dire un trou ou un chevauchement entre les gammes.
+2. **Jamais contre le total sans critère de prix.** Le statut Vendu de Matrix inclut les baux loués : ce total compte les ventes ET les locations. L'écart n'est pas de quelques unités, il est énorme. Mesuré : Mont-Royal, 430 locations pour 509 ventes sur 3 ans (8 août 2026); LaSalle, 339 locations pour 255 ventes de copropriété en 2023 (28 août 2026). En unifamiliale l'écart est plus petit, autour de 15 %, mais bien réel. Un courtier qui recoupe contre ce total conclura à tort qu'il perd la moitié de ses ventes.
+3. Les totaux annuels doivent être plausibles pour le secteur (un total qui double d'une passe à l'autre = un critère resté collé, refaire la passe).
+4. Sur un marché mince (moins de 20 ventes en 3 ans), chaque chiffre se relit deux fois.
 
 ## E. Comparatif des méthodes (fait le 9 août 2026, pour ne pas refaire le débat)
 
