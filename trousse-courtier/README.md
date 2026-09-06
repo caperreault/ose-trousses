@@ -23,6 +23,7 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 | Compétence | Ce qu'elle fait |
 |---|---|
 | **Aide** | Comment faire ce que vous voulez faire, et le déblocage sur place quand ça ne marche pas |
+| **Mise à jour** | Vérifie si votre trousse est à jour, vous guide si elle ne l'est pas, et vous montre ce qui est nouveau |
 | **Fondation** | Vérifie et répare votre bureau, votre assistant, votre calendrier IA et votre routine du matin |
 | **Courriel de conditions** | Le récapitulatif après l'acceptation d'une promesse d'achat: vos clients et le courtier collaborateur |
 | **Saisie Centris** | Votre nouvelle inscription entrée dans Centris, dans votre session, arrêt avant la soumission |
@@ -45,11 +46,12 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 
 ## Les raccourcis
 
-Tapez `/` dans la boîte de conversation et écrivez « trousse » : les quatre apparaissent dans la liste, précédés du nom de la trousse.
+Tapez `/` dans la boîte de conversation et écrivez « trousse » : les cinq apparaissent dans la liste, précédés du nom de la trousse.
 
 | Raccourci | Ce qu'il lance |
 |---|---|
 | `aide` | Comment faire quelque chose, et ce qui bloque en ce moment |
+| `mise-a-jour` | Ai-je la dernière version, et qu'est-ce qui est nouveau |
 | `verifier-mon-bureau` | La vérification de votre bureau |
 | `mon-matin` | Votre journée sur une page |
 | `trousse` | Ce que la trousse contient, et quoi faire ensuite |
@@ -59,6 +61,14 @@ Tapez `/` dans la boîte de conversation et écrivez « trousse » : les quatre 
 Les suivis et la prospection. Le coordonnateur de transactions. La comptabilité. Le contenu et les réseaux sociaux. La veille de marché.
 
 Dites « quels agents je peux avoir » et votre assistant vous les présente. Vous choisissez le prénom, il monte le poste dans votre dossier « Mes agents ».
+
+## Rester à jour
+
+La trousse change. Vous n'avez rien à surveiller: **tapez `/` et choisissez `mise-a-jour`.**
+
+Votre assistant regarde quelle version vous avez, la compare avec celle qui est publiée, vous donne les quatre gestes si vous êtes en retard, et vous montre ce qui est nouveau depuis votre version. Deux minutes, et vos fichiers, vos agents et votre mémoire ne sont pas touchés.
+
+Faites-le quand vous y pensez, ou quand quelqu'un vous parle d'une nouveauté que vous n'avez pas.
 
 ## Vos garde-fous
 

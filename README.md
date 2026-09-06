@@ -26,11 +26,13 @@ Les commandes `/plugin ...` qu'on voit dans la documentation sont réservées au
 
 ## Ce qu'il y a dedans
 
-**La trousse du courtier** installe vingt compétences, cinq postes d'agents prêts à activer et quatre raccourcis, pour la pratique d'un courtier immobilier du Québec. Le détail est dans [le mode d'emploi de la trousse](trousse-courtier/README.md).
+**La trousse du courtier** installe vingt-et-une compétences, cinq postes d'agents prêts à activer et cinq raccourcis, pour la pratique d'un courtier immobilier du Québec. Le détail est dans [le mode d'emploi de la trousse](trousse-courtier/README.md).
 
 ## Mettre à jour
 
-Quand une version corrigée est publiée : rouvrez **Parcourir les plugins** et réinstallez **trousse-courtier**. Vos fichiers, vos agents et vos réglages ne sont pas touchés, seule la trousse change. Ouvrez ensuite une nouvelle conversation.
+**Le plus simple : tapez `/` dans une conversation et choisissez `mise-a-jour`.** Votre assistant vérifie quelle version vous avez, vous dit si vous êtes en retard, vous donne les gestes, et vous montre ce qui est nouveau.
+
+À la main, si vous préférez : rouvrez **Parcourir les plugins** et réinstallez **trousse-courtier**. Vos fichiers, vos agents et vos réglages ne sont pas touchés, seule la trousse change. Ouvrez ensuite une nouvelle conversation.
 
 ## Une règle traverse tout
 
