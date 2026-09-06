@@ -26,7 +26,7 @@ Les commandes `/plugin ...` qu'on voit dans la documentation sont réservées au
 
 ## Ce qu'il y a dedans
 
-**La trousse du courtier** installe dix-neuf compétences, cinq postes d'agents prêts à activer et quatre raccourcis, pour la pratique d'un courtier immobilier du Québec. Le détail est dans [le mode d'emploi de la trousse](trousse-courtier/README.md).
+**La trousse du courtier** installe vingt compétences, cinq postes d'agents prêts à activer et quatre raccourcis, pour la pratique d'un courtier immobilier du Québec. Le détail est dans [le mode d'emploi de la trousse](trousse-courtier/README.md).
 
 ## Mettre à jour
 

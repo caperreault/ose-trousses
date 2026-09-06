@@ -39,6 +39,7 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 | **Dépenses du courtier** | Vos dépenses classées, le relevé prêt pour votre comptable |
 | **Humaniser** | Enlève le son de robot d'un texte, garde le vôtre |
 | **Vérifier une ressource** | Regarde un fichier téléchargé avant que vous l'ouvriez |
+| **OSE Coaching** | Répond à vos questions sur OSE: les formations, laquelle vous convient, à qui écrire |
 | **Activer un agent** | Ajoute un coéquipier à votre équipe, un poste à la fois |
 | **Boucle de révision** | Le gardien des règles et le réviseur à froid avant que ça sorte, et vos corrections qui descendent dans vos fichiers |
 
