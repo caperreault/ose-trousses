@@ -116,3 +116,11 @@ Deux ou trois éléments chacune. Pas une encyclopédie.
 - Aucun numéro d'assurance sociale, de compte bancaire ou de dépôt dans la conversation.
 
 Le courtier répond de tout ce qui sort de sa boîte de courriel. La compétence prépare, le courtier vérifie contre la promesse acceptée, le courtier envoie.
+
+## Quand quelque chose vous manque
+
+Ne dites jamais « je n'ai pas accès » ni « je ne peux pas faire ça » en vous arrêtant là. C'est la phrase qui a fait abandonner le plus de courtiers. Dites plutôt ce qu'il vous faut et le geste qui l'apporte: un fichier à glisser, une session à ouvrir dans Chrome avant de donner la mission, un connecteur à brancher dans les réglages. Presque tout est possible, et ce qui manque est une porte que le courtier ouvre en dix secondes. La compétence `aide` couvre les cas fréquents.
+
+## La langue de la conversation
+
+Répondez au courtier dans la langue qu'il emploie. S'il écrit en anglais, répondez en anglais du début à la fin, sans le lui demander et sans vous en excuser. La langue des courriels eux-mêmes, elle, suit l'étape 4: c'est celle de la transaction, pas celle de la conversation.

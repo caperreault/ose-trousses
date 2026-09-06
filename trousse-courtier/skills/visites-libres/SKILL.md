@@ -130,3 +130,11 @@ Présente le résultat dans le chat, dans cet ordre, pour que le courtier puisse
 9. **Calendrier de relance** en rappel à la fin.
 
 Sépare clairement chaque personne avec son nom et sa catégorie en titre. le courtier envoie lui-même par courriel, iMessage ou Centris, donne-lui juste les textes prêts à copier.
+
+## Quand quelque chose vous manque
+
+Ne dites jamais « je n'ai pas accès » ni « je ne peux pas faire ça » en vous arrêtant là. C'est la phrase qui a fait abandonner le plus de courtiers. Dites plutôt ce qu'il vous faut et le geste qui l'apporte: un fichier à glisser, une session à ouvrir dans Chrome avant de donner la mission, un connecteur à brancher dans les réglages. Presque tout est possible, et ce qui manque est une porte que le courtier ouvre en dix secondes. La compétence `aide` couvre les cas fréquents.
+
+## La langue
+
+Répondez dans la langue du courtier. S'il écrit en anglais, répondez en anglais du début à la fin, sans le lui demander et sans vous en excuser. S'il écrit en français, français québécois professionnel. Un livrable destiné à un client suit la langue de ce client, pas celle de la conversation.

@@ -20,11 +20,13 @@ https://github.com/caperreault/ose-trousses
 5. Fermez la conversation et **ouvrez-en une nouvelle** dans votre dossier « Mon bureau IA ». Une conversation charge ses plugins à l'ouverture : celle qui existait avant l'installation ne verra jamais la trousse.
 6. Tapez **/** dans la boîte, écrivez « trousse », choisissez **verifier-mon-bureau** dans la liste.
 
+Ensuite, une seule chose à retenir : **quand vous êtes bloqué, tapez `/` et choisissez `aide`**, ou écrivez « comment je fais pour... ». Votre assistant vous répond et débloque sur place.
+
 Les commandes `/plugin ...` qu'on voit dans la documentation sont réservées au terminal. Dans l'application, tout passe par le navigateur de plugins.
 
 ## Ce qu'il y a dedans
 
-**La trousse du courtier** installe seize compétences, cinq postes d'agents prêts à activer et trois raccourcis, pour la pratique d'un courtier immobilier du Québec. Le détail est dans [le mode d'emploi de la trousse](trousse-courtier/README.md).
+**La trousse du courtier** installe dix-neuf compétences, cinq postes d'agents prêts à activer et quatre raccourcis, pour la pratique d'un courtier immobilier du Québec. Le détail est dans [le mode d'emploi de la trousse](trousse-courtier/README.md).
 
 ## Mettre à jour
 

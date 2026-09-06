@@ -31,6 +31,24 @@ Les textos ne sont lisibles que sur un Mac avec un iPhone, et seulement après u
 
 Ce n'est pas grave. Les rendez-vous qui comptent passent presque toujours par le courriel.
 
+## Centris, Matrix et les sites où vous avez un compte
+
+Ceux-là ne se branchent pas dans les réglages. Il n'existe pas de connecteur Centris, et il n'y en aura pas. Le chemin passe par votre navigateur, et il fonctionne très bien.
+
+**Trois conditions, les trois en même temps:**
+
+1. **Chrome est ouvert**, avec une fenêtre visible. Pas réduit dans le Dock, pas fermé.
+2. **Vous vous connectez vous-même** au site, avant de donner la mission. Votre assistant n'entre jamais un identifiant et ne vous en demande jamais un.
+3. **Vous lui dites que c'est ouvert.** Sans ça, il ne le sait pas.
+
+Ensuite il voit la page comme vous la voyez, et il travaille dedans. La saisie d'une inscription, les comparables, les statistiques de secteur: tout passe par là.
+
+La phrase qui marche:
+
+> « Je suis connecté à Centris dans Chrome. Vas-y. »
+
+**C'est l'erreur numéro un.** Un assistant qui répond qu'il n'a pas accès à Centris a presque toujours raison sur le moment et tort sur le fond: il lui manque une fenêtre ouverte, pas une permission.
+
 ## Les trois règles qui ne changent jamais
 
 1. **Lecture d'abord.** Votre assistant lit longtemps avant d'avoir le droit d'écrire. La confiance se bâtit dans cet ordre, jamais dans l'autre.
@@ -42,6 +60,8 @@ Ce n'est pas grave. Les rendez-vous qui comptent passent presque toujours par le
 Aucune compétence ne bloque parce qu'une connexion manque. Elle fait ce qu'elle peut avec ce qu'elle a, elle vous dit **une fois** ce qui lui manquerait pour aller plus loin, et elle continue. Vous pouvez toujours lui donner l'information à la main: coller une liste, glisser un fichier, dicter vos notes.
 
 Une compétence qui vous répète à chaque passage qu'il lui manque quelque chose est une compétence mal réglée. Dites-le-lui.
+
+Et une compétence qui vous répond « je n'ai pas accès » sans vous dire quoi faire est en défaut. La bonne réponse est toujours « voici ce qu'il me faut ». Si ça vous arrive, tapez `/` et choisissez `aide`.
 
 ## Ce qui n'est jamais branché
 

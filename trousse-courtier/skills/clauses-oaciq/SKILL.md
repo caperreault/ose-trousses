@@ -70,7 +70,7 @@ Format de sortie :
 ```
 [Texte de la clause, prêt à coller]
 
-— Source : [Catégorie], clause [numéro et titre] (clauses types OACIQ, version déposée par le courtier)
+Source : [Catégorie], clause [numéro et titre] (clauses types OACIQ, version déposée par le courtier)
 À compléter : [liste des blancs restants, ou « aucun »]
 ```
 
@@ -89,11 +89,11 @@ Ne propose jamais un brouillon de la clause manquante, même partiel, même « �
 Demande : « Rédige-moi la clause d'inspection, 10 jours. »
 Réponse : ouvre le fichier de la promesse d'achat, repère la clause d'inspection de l'immeuble, reproduis son texte **mot pour mot**, insère 10 dans le blanc du délai, puis termine par la ligne de source et « À compléter : aucun ».
 
-**Exemple 2 — clause existante, détails manquants**
+**Exemple 2 : clause existante, détails manquants**
 Demande : « J'ai besoin de la clause de financement par nouveau prêt pour ma promesse. »
 Réponse : reproduire la clause 3.3 verbatim avec les `____` intacts, source indiquée, et « À compléter : nombre de jours, montant du prêt, période d'amortissement, taux d'intérêt maximal ».
 
-**Exemple 3 — clause inexistante**
+**Exemple 3 : clause inexistante**
 Demande : « Mets-moi une clause qui oblige le vendeur à repeindre toutes les pièces avant la vente. »
 Réponse :
 > Cette clause n'existe pas dans le lexique des clauses types de l'OACIQ. Elle doit donc être rédigée au complet par vous, selon la situation et la volonté des parties.
@@ -101,3 +101,11 @@ Réponse :
 ## Limites à rappeler au besoin
 - Le lexique vaut à la date où le courtier l'a téléchargé. S'il doute d'une mise à jour, l'inviter à reprendre la page dans son Espace courtiers. Une fois par année est un bon rythme.
 - Ce skill prépare un libellé; il ne remplace pas le jugement professionnel du courtier ni un avis juridique. Les clauses types sont fournies « à titre indicatif » par l'OACIQ et doivent correspondre à la situation et à la volonté des parties.
+
+## Quand quelque chose te manque
+
+Ne dis jamais « je n'ai pas accès » ni « je ne peux pas faire ça » en t'arrêtant là. C'est la phrase qui a fait abandonner le plus de courtiers. Dis plutôt ce qu'il te faut et le geste qui l'apporte: un fichier à glisser, une session à ouvrir dans Chrome avant de donner la mission, un connecteur à brancher dans les réglages. Presque tout est possible, et ce qui manque est une porte que le courtier ouvre en dix secondes. La compétence `aide` couvre les cas fréquents.
+
+## La langue
+
+Réponds dans la langue du courtier. S'il écrit en anglais, réponds en anglais du début à la fin, sans le lui demander et sans t'en excuser. S'il écrit en français, français québécois professionnel. Un livrable destiné à un client suit la langue de ce client, pas celle de la conversation.

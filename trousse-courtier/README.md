@@ -14,14 +14,19 @@ Une règle traverse tout le système et ne se négocie jamais: **l'IA prépare, 
 
 Le courtier qui installe les cinq postes en une soirée débranche tout la semaine d'après.
 
+**Quand vous êtes bloqué, ou que vous ne savez pas comment demander quelque chose: tapez `/` et choisissez `aide`.** Ou écrivez simplement « comment je fais pour... ». Vous n'avez rien à lire d'avance et rien à retenir. Si votre assistant vous répond qu'il n'a pas accès à quelque chose, c'est presque toujours qu'une porte n'est pas ouverte, et l'aide vous dit laquelle en une ligne.
+
 ## Les compétences
 
 Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenchent toutes seules.
 
 | Compétence | Ce qu'elle fait |
 |---|---|
+| **Aide** | Comment faire ce que vous voulez faire, et le déblocage sur place quand ça ne marche pas |
 | **Fondation** | Vérifie et répare votre bureau, votre assistant, votre calendrier IA et votre routine du matin |
 | **Courriel de conditions** | Le récapitulatif après l'acceptation d'une promesse d'achat: vos clients et le courtier collaborateur |
+| **Saisie Centris** | Votre nouvelle inscription entrée dans Centris, dans votre session, arrêt avant la soumission |
+| **Contrat de courtage** | Le contrat préparé à partir de vos documents, avec la liste de ce qui manque avant signature |
 | **Fiche Centris** | La fiche descriptive de votre inscription |
 | **Expert de quartier** | Le portrait complet d'un secteur, pour parler comme quelqu'un qui le travaille depuis dix ans |
 | **OVM et comparables** | L'analyse de valeur marchande, et la matière pour l'expliquer à votre vendeur |
@@ -39,10 +44,11 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 
 ## Les raccourcis
 
-Tapez `/` dans la boîte de conversation et écrivez « trousse » : les trois apparaissent dans la liste, précédés du nom de la trousse.
+Tapez `/` dans la boîte de conversation et écrivez « trousse » : les quatre apparaissent dans la liste, précédés du nom de la trousse.
 
 | Raccourci | Ce qu'il lance |
 |---|---|
+| `aide` | Comment faire quelque chose, et ce qui bloque en ce moment |
 | `verifier-mon-bureau` | La vérification de votre bureau |
 | `mon-matin` | Votre journée sur une page |
 | `trousse` | Ce que la trousse contient, et quoi faire ensuite |
@@ -57,7 +63,7 @@ Dites « quels agents je peux avoir » et votre assistant vous les présente. Vo
 
 Ils sont dans chaque compétence, sans exception.
 
-- **Aucun envoi.** Tout sort en brouillon. Vous relisez, vous ajustez, vous envoyez.
+- **Aucun envoi.** Tout sort en brouillon. Vous relisez, vous ajustez, vous envoyez. Une fiche Centris n'est jamais soumise pour vous, un contrat n'est jamais signé pour vous.
 - **Aucune suppression** sans votre confirmation.
 - **Aucun chiffre inventé.** Toute donnée de marché se vérifie à la source avant d'être citée à un client. L'IA produit des statistiques plausibles et fausses avec le même aplomb.
 - **Aucun avis juridique, fiscal ou déontologique.** Les compétences préparent, les professionnels confirment.
@@ -77,3 +83,5 @@ Elle ne vous rend pas non plus meilleur courtier toute seule. Elle vous rend du 
 *Trousse conçue par OSE Coaching Immobilier pour les participants de L'École de l'IA. osecoaching.com*
 
 *À utiliser, à adapter à votre pratique, à améliorer. Si une compétence vous connaît mal sur un point, dites-le-lui: elle corrigera sa fiche.*
+
+*Vos compétences répondent dans votre langue. Si vous écrivez en anglais, elles vous répondent en anglais.*
