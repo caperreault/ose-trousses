@@ -8,13 +8,15 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ## Version 1.4.0, septembre 2026
 
-**Vous pouvez demander à votre trousse si elle est à jour.** Tapez `/` et choisissez `mise-a-jour`. Votre assistant vérifie, vous dit quoi faire s'il y a du retard, et vous montre ce qui est neuf.
+**Vous pouvez demander à votre trousse si elle est à jour.** Tapez `/`, écrivez « trousse », et choisissez `trousse-courtier: mise-a-jour` dans la liste. Votre assistant vérifie, vous dit quoi faire s'il y a du retard, et vous montre ce qui est neuf.
+
+**Le piège des commandes, nommé.** Une commande de la trousse ne se tape pas en un morceau. Vous tapez `/`, vous écrivez un mot, et vous choisissez la ligne dans la liste, précédée de `trousse-courtier:`. Écrire `/aide` suivi d'Entrée donne « commande non reconnue », et ça n'a rien à voir avec votre installation.
 
 ## Version 1.3.0, septembre 2026
 
 C'est la mise à jour qui répond aux questions posées après les cohortes d'août.
 
-**Quand vous êtes bloqué, tapez `/` et choisissez `aide`**, ou écrivez « comment je fais pour... ». Votre assistant vous débloque sur place, sans que vous ayez à retrouver un document.
+**Quand vous êtes bloqué, tapez `/`, écrivez « aide », et choisissez la ligne `trousse-courtier: aide` dans la liste**, ou écrivez « comment je fais pour... ». Votre assistant vous débloque sur place, sans que vous ayez à retrouver un document.
 
 **Il fait votre saisie d'inscription dans Centris.** Il rassemble à partir de vos documents, vous dit ce qui manque, entre la fiche dans votre session, et s'arrête avant la soumission. Ça reste votre geste.
 

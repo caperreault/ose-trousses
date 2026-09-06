@@ -14,7 +14,14 @@ Une règle traverse tout le système et ne se négocie jamais: **l'IA prépare, 
 
 Le courtier qui installe les cinq postes en une soirée débranche tout la semaine d'après.
 
-**Quand vous êtes bloqué, ou que vous ne savez pas comment demander quelque chose: tapez `/` et choisissez `aide`.** Ou écrivez simplement « comment je fais pour... ». Vous n'avez rien à lire d'avance et rien à retenir. Si votre assistant vous répond qu'il n'a pas accès à quelque chose, c'est presque toujours qu'une porte n'est pas ouverte, et l'aide vous dit laquelle en une ligne.
+> **Comment taper une commande de la trousse.** Tapez la barre oblique `/`, puis écrivez un mot, par exemple « trousse » ou « aide ». Une liste apparaît. **Choisissez la ligne dans la liste**, elle est précédée du nom de la trousse, comme `trousse-courtier: aide`.
+>
+> N'écrivez pas `/aide` suivi d'Entrée: l'application répond que la commande n'est pas reconnue. Ce n'est pas que votre trousse est brisée, c'est qu'une commande de plugin porte le nom de sa trousse devant.
+>
+> Et ces commandes vivent dans l'onglet **Code**. Dans un autre onglet, elles n'existent pas.
+
+
+**Quand vous êtes bloqué, ou que vous ne savez pas comment demander quelque chose: tapez `/`, écrivez « aide », et choisissez la ligne `trousse-courtier: aide` dans la liste.** Ou écrivez simplement « comment je fais pour... ». Vous n'avez rien à lire d'avance et rien à retenir. Si votre assistant vous répond qu'il n'a pas accès à quelque chose, c'est presque toujours qu'une porte n'est pas ouverte, et l'aide vous dit laquelle en une ligne.
 
 ## Les compétences
 
@@ -64,7 +71,7 @@ Dites « quels agents je peux avoir » et votre assistant vous les présente. Vo
 
 ## Rester à jour
 
-La trousse change. Vous n'avez rien à surveiller: **tapez `/` et choisissez `mise-a-jour`.**
+La trousse change. Vous n'avez rien à surveiller: **tapez `/`, écrivez « trousse », et choisissez `trousse-courtier: mise-a-jour` dans la liste.**
 
 Votre assistant regarde quelle version vous avez, la compare avec celle qui est publiée, vous donne les quatre gestes si vous êtes en retard, et vous montre ce qui est nouveau depuis votre version. Deux minutes, et vos fichiers, vos agents et votre mémoire ne sont pas touchés.
 

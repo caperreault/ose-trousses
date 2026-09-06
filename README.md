@@ -20,7 +20,14 @@ https://github.com/caperreault/ose-trousses
 5. Fermez la conversation et **ouvrez-en une nouvelle** dans votre dossier « Mon bureau IA ». Une conversation charge ses plugins à l'ouverture : celle qui existait avant l'installation ne verra jamais la trousse.
 6. Tapez **/** dans la boîte, écrivez « trousse », choisissez **verifier-mon-bureau** dans la liste.
 
-Ensuite, une seule chose à retenir : **quand vous êtes bloqué, tapez `/` et choisissez `aide`**, ou écrivez « comment je fais pour... ». Votre assistant vous répond et débloque sur place.
+> **Comment taper une commande de la trousse.** Tapez la barre oblique `/`, puis écrivez un mot, par exemple « trousse » ou « aide ». Une liste apparaît. **Choisissez la ligne dans la liste**, elle est précédée du nom de la trousse, comme `trousse-courtier: aide`.
+>
+> N'écrivez pas `/aide` suivi d'Entrée: l'application répond que la commande n'est pas reconnue. Ce n'est pas que votre trousse est brisée, c'est qu'une commande de plugin porte le nom de sa trousse devant.
+>
+> Et ces commandes vivent dans l'onglet **Code**. Dans un autre onglet, elles n'existent pas.
+
+
+Ensuite, une seule chose à retenir : **quand vous êtes bloqué, tapez `/`, écrivez « aide », et choisissez la ligne `trousse-courtier: aide` dans la liste**, ou écrivez « comment je fais pour... ». Votre assistant vous répond et débloque sur place.
 
 Les commandes `/plugin ...` qu'on voit dans la documentation sont réservées au terminal. Dans l'application, tout passe par le navigateur de plugins.
 
