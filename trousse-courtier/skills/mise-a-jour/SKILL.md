@@ -46,7 +46,7 @@ Si vous n'arrivez pas à la lire, ne bloquez pas et ne lui demandez pas de la ch
 > 4. Fermez cette conversation et ouvrez-en une neuve.
 >
 > Vos fichiers, vos agents et votre mémoire ne sont pas touchés. Une conversation charge ses outils à l'ouverture, jamais après: c'est pour ça qu'il en faut une neuve.
-> Dans la nouvelle, retapez `/`, écrivez « trousse », et choisissez `trousse-courtier: mise-a-jour` dans la liste. Je confirme que c'est passé et je vous montre le nouveau.
+> Dans la nouvelle, retapez `/`, écrivez « trousse », et choisissez dans la liste la ligne « mise-a-jour », celle qui est précédée du nom de la trousse. Je confirme que c'est passé et je vous montre le nouveau.
 
 **Le piège à nommer, une seule fois**, s'il a déjà essayé sans succès: ne pas passer par **Personnaliser** dans la barre de gauche. Ce chemin affiche un succès et n'installe rien. C'est la cause numéro un des trousses qui restent en retard.
 

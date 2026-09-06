@@ -12,7 +12,7 @@ Les causes sont classées par fréquence réelle, observées dans les cohortes d
 | « J'ai installé la trousse, elle n'apparaît nulle part » | Installée par Personnaliser au lieu du bouton + de la conversation | Réinstaller par le bouton + à côté de la boîte de message, puis Plugins. Fermer la conversation, en ouvrir une neuve |
 | « Ça marchait hier, ça ne marche plus » | Un dossier renommé, un fichier déplacé, ou une conversation ouverte avant un branchement | Demander ce qui a bougé depuis. Puis fermer la conversation et en ouvrir une neuve |
 | « Je ne sais pas quoi lui demander » | Il n'a pas de mission, il a une envie | Lui faire dire la tâche qu'il fait le plus souvent à la main. Partir de là |
-| « Il dit que la commande n'est pas reconnue » | Il a tapé `/aide` d'un coup, ou il n'est pas dans l'onglet Code | Taper `/`, écrire le mot, puis CHOISIR la ligne dans la liste: elle est précédée de `trousse-courtier:`. Et vérifier qu'il est dans Code |
+| « Il dit que la commande n'est pas reconnue » | Il a tapé `/aide` d'un coup, ou il n'est pas dans l'onglet Code | Taper `/`, écrire le mot, puis CHOISIR la ligne dans la liste: elle est précédée du nom de la trousse. Et vérifier qu'il est dans Code |
 
 ## Se connecter, brancher, voir ses affaires
 

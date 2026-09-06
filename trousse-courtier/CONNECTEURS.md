@@ -61,7 +61,7 @@ Aucune compétence ne bloque parce qu'une connexion manque. Elle fait ce qu'elle
 
 Une compétence qui vous répète à chaque passage qu'il lui manque quelque chose est une compétence mal réglée. Dites-le-lui.
 
-Et une compétence qui vous répond « je n'ai pas accès » sans vous dire quoi faire est en défaut. La bonne réponse est toujours « voici ce qu'il me faut ». Si ça vous arrive, tapez `/`, écrivez « aide », et choisissez la ligne `trousse-courtier: aide` dans la liste.
+Et une compétence qui vous répond « je n'ai pas accès » sans vous dire quoi faire est en défaut. La bonne réponse est toujours « voici ce qu'il me faut ». Si ça vous arrive, tapez `/`, écrivez « aide », et choisissez dans la liste la ligne « aide », celle qui est précédée du nom de la trousse.
 
 ## Ce qui n'est jamais branché
 
