@@ -25,6 +25,7 @@ Les causes sont classées par fréquence réelle, observées dans les cohortes d
 | « Je veux qu'il lise mes textos » | Limite réelle | Mac avec iPhone: oui, avec une installation de plus. PC ou Android: non, et rien n'y change |
 | « Je veux qu'il travaille dans mes fichiers » | Le dossier n'est pas le bon | Mettre les documents dans son bureau IA, ou ouvrir la conversation sur le dossier où ils sont |
 | « Est-ce que je peux brancher Centris » | Non, pas de connecteur Centris | Le chemin est Chrome: il se connecte, l'agent travaille dans sa session ouverte |
+| « Chrome est ouvert, je suis connecté, et il refuse quand même »: vous recevez *Permission denied for this action on this domain* ou *Navigation to this domain is not allowed* | Ni Centris, ni son compte, ni son installation. L'application Claude devrait lui demander la permission, la demande ne s'affiche pas, et l'action est refusée. Problème connu de l'application avec l'extension Chrome, souvent sur tous les sites | Test témoin, fait par vous: aller sur google.ca par Chrome. Refusé aussi: vérifier que l'application Claude et l'extension sont à jour, redémarrer les deux, refaire le test. Réinstaller l'extension ne règle pas ce cas. Si ça refuse encore, ne pas s'acharner: il se connecte lui-même au site dans le navigateur intégré de l'application (le panneau Browser de l'onglet Code) et vous travaillez là. Pour InstanetForms, il passe par le favori InstanetForms de l'Espace Centris, qui mène à TransactionDesk |
 
 ## Travailler ailleurs, sur un autre ordinateur
 

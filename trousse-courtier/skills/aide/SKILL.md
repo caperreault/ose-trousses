@@ -32,7 +32,7 @@ Quand quelque chose ne marche pas, ne cherchez pas la cause savante. Passez ces 
 
 1. **Le bon dossier.** La conversation est-elle ouverte sur son bureau IA? S'il ne voit ni `CLAUDE.md` ni « À propos de moi », il parle à un assistant qui ne le connaît pas. Le geste: le sélecteur de dossier en haut, choisir « Mon bureau IA ».
 2. **La bonne application.** Il travaille avec son agent dans **Code**, jamais dans le navigateur. Dans le navigateur, sa mémoire et sa trousse n'existent pas.
-3. **La session du site.** Pour Centris, Matrix, Facebook, sa banque d'images: **Chrome doit être ouvert, avec une fenêtre visible, et lui-même connecté au site AVANT de donner la mission.** Pas réduit dans le Dock. Pas fermé. C'est l'erreur numéro un.
+3. **La session du site.** Pour Centris, Matrix, Facebook, sa banque d'images: **Chrome doit être ouvert, avec une fenêtre visible, et lui-même connecté au site AVANT de donner la mission.** Pas réduit dans le Dock. Pas fermé. C'est l'erreur numéro un. Si tout ça est en place et que l'action est quand même refusée (*Permission denied*, *Navigation to this domain is not allowed*), c'est une autre cause: voyez l'index, section « Se connecter ».
 4. **La conversation est-elle neuve?** Une conversation charge ses outils à l'ouverture, jamais après. S'il vient d'installer ou de brancher quelque chose, il faut fermer et rouvrir.
 5. **La trousse est-elle vraiment là?** S'il ne trouve aucune compétence, l'installation est passée par le mauvais chemin. Lancez `verifier-mon-bureau`.
 

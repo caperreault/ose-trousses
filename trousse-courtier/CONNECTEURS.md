@@ -49,6 +49,8 @@ La phrase qui marche:
 
 **C'est l'erreur numéro un.** Un assistant qui répond qu'il n'a pas accès à Centris a presque toujours raison sur le moment et tort sur le fond: il lui manque une fenêtre ouverte, pas une permission.
 
+**Si Chrome est ouvert, que vous êtes connecté, et qu'il refuse quand même** avec un message en anglais comme *Permission denied for this action on this domain* ou *Navigation to this domain is not allowed*, ce n'est ni Centris, ni votre compte, ni votre installation. C'est un problème connu de l'application Claude avec l'extension Chrome. Mettez l'application et l'extension à jour, redémarrez les deux et réessayez. Si ça refuse encore, passez par le navigateur intégré de l'application, le panneau Browser de l'onglet Code: connectez-vous-y vous-même au site, et donnez la mission là.
+
 ## Les trois règles qui ne changent jamais
 
 1. **Lecture d'abord.** Votre assistant lit longtemps avant d'avoir le droit d'écrire. La confiance se bâtit dans cet ordre, jamais dans l'autre.
