@@ -114,7 +114,7 @@ Rappelle que le brief est généré par IA et que je dois valider les faits clé
 
 Deux livraisons à chaque fois:
 1. Le brief complet dans le chat, structuré avec les titres ci-dessus et des listes à puces.
-2. Un fichier Markdown sauvegardé dans `Claude-Cowork/Résultats Claude/` nommé `brief-quartier-[secteur]-[date].md`, identique au brief, pour que je le rouvre sur mon cellulaire.
+2. Un fichier Markdown sauvegardé dans le dossier `Résultats/` de mon bureau IA nommé `brief-quartier-[secteur]-[date].md`, identique au brief, pour que je le rouvre sur mon cellulaire.
 
 Style d'écriture: phrases courtes, voix active, français québécois professionnel. Pas de tirets cadratins, jamais. Pas de mots-marqueurs d'IA. Va droit au but, comme un courtier qui briefe un collègue.
 

@@ -6,6 +6,10 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.4.3, octobre 2026
+
+**Votre portrait de quartier et votre opinion de valeur se rangent au bon endroit.** Votre assistant les sauvegarde maintenant dans le dossier `Résultats` de votre bureau IA. Avant, il cherchait un dossier qui n'existe pas chez vous.
+
 ## Version 1.4.2, septembre 2026
 
 **Quand Chrome refuse d'agir même si vous êtes connecté.** Si votre assistant reçoit *Permission denied* ou *Navigation to this domain is not allowed* sur Centris, Matrix ou TransactionDesk, il sait maintenant que ce n'est ni votre compte ni votre installation. Il fait un test, vous donne les deux gestes qui règlent le plus souvent, et sinon il passe par le navigateur intégré de l'application, où vous vous connectez vous-même. Votre promesse d'achat n'attend plus.

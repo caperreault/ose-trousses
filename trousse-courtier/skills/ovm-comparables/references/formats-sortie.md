@@ -87,4 +87,4 @@ Pas de fourchette réaliste/optimiste étalée comme dans le Format A: le vendeu
 
 ## Sauvegarde
 
-Sauvegarder le Format A et le Format B en docx ou markdown dans `Résultats Claude/OVM/`, nommés avec l'adresse et la date.
+Sauvegarder le Format A et le Format B en docx ou markdown dans `Résultats/OVM/` du bureau IA du courtier, nommés avec l'adresse et la date.
