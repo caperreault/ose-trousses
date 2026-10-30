@@ -10,9 +10,7 @@ Une règle traverse tout le système et ne se négocie jamais: **l'IA prépare, 
 
 1. **Tapez `/` dans la boîte, écrivez « trousse », choisissez `verifier-mon-bureau`.** Elle regarde votre bureau, répare ce qui manque, complète ce qui est vide, et vous dit en quatre lignes où vous en êtes. Deux minutes.
 2. **Testez tout de suite.** Demandez-lui un courriel de suivi pour votre dernier acheteur. Vous allez voir la différence entre un assistant qui vous connaît et un assistant générique.
-3. **Ajoutez UN poste.** Quand une tâche revient trop souvent, dites « monte-moi l'agent qui s'occupe de ça ». Un poste à la fois. Quand celui-là roule et que vous êtes prêt pour le suivant, vous le dites. C'est votre rythme, pas le nôtre.
-
-Le courtier qui installe les cinq postes en une soirée débranche tout la semaine d'après.
+3. **Montez votre équipe.** Tapez `/`, écrivez « équipe », choisissez `monter-mon-equipe`. Votre associé reçoit ses cinq coéquipiers, et il apprend ce que votre trousse sait faire et à qui passer chaque demande. Vous préférez y aller un poste à la fois? Dites « monte-moi l'agent qui s'occupe de ça » quand une tâche revient trop souvent.
 
 > **Comment taper une commande de la trousse.** Tapez la barre oblique `/`, puis écrivez un mot, par exemple « trousse » ou « aide ». Une liste apparaît. **Choisissez la ligne dans la liste** plutôt que de finir de taper. Les commandes de la trousse y apparaissent précédées de son nom.
 >
@@ -48,18 +46,19 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 | **Humaniser** | Enlève le son de robot d'un texte, garde le vôtre |
 | **Vérifier une ressource** | Regarde un fichier téléchargé avant que vous l'ouvriez |
 | **OSE Coaching** | Répond à vos questions sur OSE: les formations, laquelle vous convient, à qui écrire |
-| **Activer un agent** | Ajoute un coéquipier à votre équipe, un poste à la fois |
+| **Activer un agent** | Ajoute un coéquipier à votre équipe, ou monte toute l'équipe d'un coup, et range vos compétences pour votre associé |
 | **Boucle de révision** | Le gardien des règles et le réviseur à froid avant que ça sorte, et vos corrections qui descendent dans vos fichiers |
 
 ## Les raccourcis
 
-Tapez `/` dans la boîte de conversation et écrivez « trousse » : les cinq apparaissent dans la liste, précédés du nom de la trousse.
+Tapez `/` dans la boîte de conversation et écrivez « trousse » : les six apparaissent dans la liste, précédés du nom de la trousse.
 
 | Raccourci | Ce qu'il lance |
 |---|---|
 | `aide` | Comment faire quelque chose, et ce qui bloque en ce moment |
 | `mise-a-jour` | Ai-je la dernière version, et qu'est-ce qui est nouveau |
 | `verifier-mon-bureau` | La vérification de votre bureau |
+| `monter-mon-equipe` | Toute votre équipe d'agents d'un coup, et vos compétences rangées |
 | `mon-matin` | Votre journée sur une page |
 | `trousse` | Ce que la trousse contient, et quoi faire ensuite |
 
@@ -67,7 +66,7 @@ Tapez `/` dans la boîte de conversation et écrivez « trousse » : les cinq ap
 
 Les suivis et la prospection. Le coordonnateur de transactions. La comptabilité. Le contenu et les réseaux sociaux. La veille de marché.
 
-Dites « quels agents je peux avoir » et votre assistant vous les présente. Vous choisissez le prénom, il monte le poste dans votre dossier « Mes agents ».
+Dites « monte toute mon équipe » et les cinq se montent dans la même conversation : vous donnez les prénoms, ou il les choisit pour vous. Ou dites « quels agents je peux avoir » pour en choisir un seul.
 
 ## Rester à jour
 

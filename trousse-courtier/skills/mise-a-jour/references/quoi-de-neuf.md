@@ -6,6 +6,16 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.5.0, octobre 2026
+
+C'est la mise à jour du Jour 2 de L'École de l'IA.
+
+**Toute votre équipe d'un coup.** Tapez `/`, écrivez « équipe », et choisissez la ligne « monter-mon-equipe », celle qui est précédée du nom de la trousse. Ou dites simplement « monte toute mon équipe ». Votre associé reçoit cinq collègues (prospection et suivis, transactions, comptabilité, contenu, veille de marché), chacun avec son dossier et sa mémoire. Vous donnez les prénoms en un seul message, ou vous dites « choisis pour moi ».
+
+**Votre associé connaît maintenant votre trousse.** Il tient la liste de tout ce qu'elle sait faire, avec la phrase à dire et le collègue qui s'en charge. Demandez-lui « qu'est-ce que ma trousse peut faire? » et il vous répond à partir de votre propre équipe.
+
+**Votre bureau se répare mieux.** La vérification de votre bureau retrouve les réponses que vous avez données en classe si un fichier est resté vide, après vous avoir demandé la permission. Votre associé se présente par son prénom au début de chaque conversation, et ce que vous lui apprenez sur vous s'enregistre dans le bon fichier, sans que vous ayez à le demander.
+
 ## Version 1.4.3, octobre 2026
 
 **Votre portrait de quartier et votre opinion de valeur se rangent au bon endroit.** Votre assistant les sauvegarde maintenant dans le dossier `Résultats` de votre bureau IA. Avant, il cherchait un dossier qui n'existe pas chez vous.

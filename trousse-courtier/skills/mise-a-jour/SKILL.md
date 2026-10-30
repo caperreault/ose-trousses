@@ -35,7 +35,7 @@ Si vous n'arrivez pas à la lire, ne bloquez pas et ne lui demandez pas de la ch
 
 **Si les versions sont identiques**, une phrase, puis sautez à l'étape 5:
 
-> Votre trousse est à jour, version X, vingt compétences chargées.
+> Votre trousse est à jour, version X, vingt et une compétences chargées.
 
 **Si sa version est en retard**, dites l'écart en une ligne, puis les quatre gestes, sans rien autour:
 
