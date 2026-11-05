@@ -120,6 +120,8 @@ Pour chaque agent de `Mes agents/` :
 
 - **Ses compétences sont rangées.** Si `Mes agents/competences.md` n'existe pas, ou s'il date d'une version plus ancienne de la trousse, notez-le au bulletin avec la phrase : « Dites "range mes compétences" ». Si son équipe compte seulement l'associé, ajoutez : « Dites "monte toute mon équipe" : les cinq postes de la trousse se montent dans la même conversation. » Ne les montez pas vous-même : c'est `activer-un-agent`, sur son oui.
 
+- **Sa boucle de révision.** Si `.claude/gardiens/gardiens.pl` existe, comparez sa ligne `# VERSION` à celle du `gardiens.pl` de la compétence `boucle-de-revision`; plus ancienne, recopiez-le et lancez `perl ".claude/gardiens/gardiens.pl" test "<chemin du bureau>"`. Vérifiez aussi que `.claude/settings.json` appelle bien `gardiens.pl` et que `.claude/agents/` contient `gardien-des-regles.md` et `reviseur-a-froid.md`. Si la boucle n'est pas montée, notez-le au bulletin avec la phrase : « Dites "monte ma boucle" : vos gardiens et vos deux vérificateurs, dix minutes. » Ne la montez pas vous-même : elle demande ses mots interdits.
+
 ## Étape 7 : À décider.md
 
 S'il n'existe pas à la racine, créez-le, avec cette seule ligne : « Ce qui attend ma décision. Une ligne datée par item, je raye ce qui est réglé. » C'est la seule pile que le courtier a besoin de regarder pour savoir ce qui l'attend.

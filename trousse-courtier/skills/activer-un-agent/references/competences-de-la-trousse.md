@@ -20,7 +20,7 @@ La colonne « Qui s'en sert » nomme un poste. Dans le bureau du courtier, rempl
 | expert-quartier | Le portrait complet d'un quartier, pour parler comme quelqu'un qui le travaille depuis dix ans | « Fais-moi le portrait du quartier de [secteur] » | Contenu et clients, Veille de marché |
 | stats-marche | Les statistiques de votre secteur, prêtes pour une présentation | « Mes statistiques de marché pour [secteur] » | Veille de marché |
 | ovm-comparables | L'opinion de valeur à partir de vos comparables | « Prépare l'OVM du [adresse] » | Veille de marché |
-| boucle-de-revision | Un livrable relu à froid contre vos règles avant qu'il vous arrive | « Relis ça à froid » | Tous |
+| boucle-de-revision | Le gardien des règles et le réviseur à froid avant que ça sorte, vos mots interdits bloqués, vos corrections qui restent | « Passe ça dans la boucle » (pour la monter : « Monte ma boucle ») | Tous |
 | fondation | Votre bureau vérifié et réparé, vos réponses retrouvées | « Vérifie mon bureau » | Associé |
 | activer-un-agent | Un nouveau coéquipier, ou toute l'équipe d'un coup | « Monte toute mon équipe » | Associé |
 | aide | Le blocage réglé sur place | « Comment je fais pour... » | Associé |

@@ -14,6 +14,14 @@ Les causes sont classées par fréquence réelle, observées dans les cohortes d
 | « Je ne sais pas quoi lui demander » | Il n'a pas de mission, il a une envie | Lui faire dire la tâche qu'il fait le plus souvent à la main. Partir de là |
 | « Il dit que la commande n'est pas reconnue » | Il a tapé `/aide` d'un coup, ou il n'est pas dans l'onglet Code | Taper `/`, écrire le mot, puis CHOISIR la ligne dans la liste: elle est précédée du nom de la trousse. Et vérifier qu'il est dans Code |
 
+
+## La boucle de révision
+
+| Il dit | La cause | Le geste |
+|---|---|---|
+| « Mon assistant dit "BLOQUÉ par les gardiens" » | Ce n'est pas une panne : un gardien a vu un tiret long, un mot de passe ou un de ses mots interdits | Rien à faire, l'assistant corrige et réécrit. Si le mot est voulu (une citation), le retirer de la section « Mots interdits » de mes-regles-decriture.md |
+| « J'ai ajouté un mot interdit et il passe encore » | Le gardien ne surveille que le dossier Résultats, et seulement les mots en puce sous le titre « Mots interdits » | Vérifier que le mot est en puce sous ce titre. Dans les autres dossiers, il est permis exprès |
+| « Le réviseur à froid n'existe pas » | La boucle n'est pas montée, ou la conversation a été ouverte avant | Dire « monte ma boucle », puis ouvrir une nouvelle conversation |
 ## Se connecter, brancher, voir ses affaires
 
 | Il dit | La cause | Le geste |

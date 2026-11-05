@@ -47,11 +47,11 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 | **Vérifier une ressource** | Regarde un fichier téléchargé avant que vous l'ouvriez |
 | **OSE Coaching** | Répond à vos questions sur OSE: les formations, laquelle vous convient, à qui écrire |
 | **Activer un agent** | Ajoute un coéquipier à votre équipe, ou monte toute l'équipe d'un coup, et range vos compétences pour votre associé |
-| **Boucle de révision** | Le gardien des règles et le réviseur à froid avant que ça sorte, et vos corrections qui descendent dans vos fichiers |
+| **Boucle de révision** | Des gardiens qui bloquent vos mots interdits et vos mots de passe avant qu'ils s'écrivent, le gardien des règles et le réviseur à froid avant que ça sorte, et vos corrections qui descendent dans vos fichiers |
 
 ## Les raccourcis
 
-Tapez `/` dans la boîte de conversation et écrivez « trousse » : les six apparaissent dans la liste, précédés du nom de la trousse.
+Tapez `/` dans la boîte de conversation et écrivez « trousse » : les sept apparaissent dans la liste, précédés du nom de la trousse.
 
 | Raccourci | Ce qu'il lance |
 |---|---|
@@ -59,6 +59,7 @@ Tapez `/` dans la boîte de conversation et écrivez « trousse » : les six app
 | `mise-a-jour` | Ai-je la dernière version, et qu'est-ce qui est nouveau |
 | `verifier-mon-bureau` | La vérification de votre bureau |
 | `monter-mon-equipe` | Toute votre équipe d'agents d'un coup, et vos compétences rangées |
+| `monter-ma-boucle` | Vos gardiens, vos mots interdits et vos deux vérificateurs, montés avec vous |
 | `mon-matin` | Votre journée sur une page |
 | `trousse` | Ce que la trousse contient, et quoi faire ensuite |
 

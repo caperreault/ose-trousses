@@ -6,6 +6,14 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.6.0, novembre 2026
+
+**Votre boucle de révision, la même que celle de votre coach.** Tapez `/`, écrivez « boucle », et choisissez la ligne « monter-ma-boucle ». Ou dites « monte ma boucle ». En dix minutes, votre assistant installe dans votre bureau :
+- des **gardiens** qui bloquent avant qu'il s'écrive un tiret long, un mot de passe, ou un des mots que vous ne voulez jamais voir dans vos textes. Votre assistant trouve la liste dans ce que vous avez déjà écrit (vos règles, votre voix), et chaque mot que vous ajoutez plus tard est bloqué tout de suite;
+- deux **vérificateurs** : le gardien des règles, qui refuse un chiffre sans source, et le réviseur à froid, qui relit sans rien savoir de la conversation, comme votre client va le lire.
+
+Votre associé s'en sert tout seul avant de vous remettre un texte qui part vers un client. Ouvrez ensuite une nouvelle conversation et dites « teste ma boucle » : trois minutes, et vous voyez les trois attraper chacun quelque chose.
+
 ## Version 1.5.1, novembre 2026
 
 **Votre assistant sait qu'il travaille avec vous dans Chrome.** Centris, Matrix, vos formulaires et votre CRM font partie de votre journée, et maintenant de la sienne. La vérification de votre bureau ajoute à votre fondation une section « Mon travail dans Chrome » : quand vous lui dites qu'un site est ouvert, il y va et fait le travail dans votre session, vos comparables comme la saisie d'une inscription. Il ne tape jamais votre mot de passe, et il vous montre tout ce qu'il va entrer avant de l'écrire. Pour l'avoir, dites « vérifie mon bureau ».

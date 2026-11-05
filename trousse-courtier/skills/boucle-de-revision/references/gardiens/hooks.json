@@ -1,0 +1,36 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit|NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "perl \"$CLAUDE_PROJECT_DIR/.claude/gardiens/gardiens.pl\" ecriture",
+            "timeout": 10
+          }
+        ]
+      },
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "perl \"$CLAUDE_PROJECT_DIR/.claude/gardiens/gardiens.pl\" versions",
+            "timeout": 10
+          }
+        ]
+      },
+      {
+        "matcher": "Read",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "perl \"$CLAUDE_PROJECT_DIR/.claude/gardiens/gardiens.pl\" lecture",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
