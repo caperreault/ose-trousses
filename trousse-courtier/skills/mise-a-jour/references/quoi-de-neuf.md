@@ -6,6 +6,10 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.5.1, novembre 2026
+
+**Votre assistant sait qu'il travaille avec vous dans Chrome.** Centris, Matrix, vos formulaires et votre CRM font partie de votre journée, et maintenant de la sienne. La vérification de votre bureau ajoute à votre fondation une section « Mon travail dans Chrome » : quand vous lui dites qu'un site est ouvert, il y va et fait le travail dans votre session, vos comparables comme la saisie d'une inscription. Il ne tape jamais votre mot de passe, et il vous montre tout ce qu'il va entrer avant de l'écrire. Pour l'avoir, dites « vérifie mon bureau ».
+
 ## Version 1.5.0, octobre 2026
 
 C'est la mise à jour du Jour 2 de L'École de l'IA.

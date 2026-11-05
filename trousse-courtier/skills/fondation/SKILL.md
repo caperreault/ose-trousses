@@ -27,7 +27,7 @@ Faites le tour et notez, pour la grille du bulletin :
 
 | Ce que vous vérifiez | Ce qui compte comme bon |
 |---|---|
-| `CLAUDE.md` à la racine | Il a les sections du gabarit : Qui je suis, Qui répond ici, Comment ce bureau est organisé, Quoi lire selon la tâche, Tenir mes fichiers à jour, Mes règles permanentes |
+| `CLAUDE.md` à la racine | Il a les sections du gabarit : Qui je suis, Qui répond ici, Comment ce bureau est organisé, Quoi lire selon la tâche, Tenir mes fichiers à jour, Mon travail dans Chrome, Mes règles permanentes |
 | « Qui je suis » | Trois vraies lignes, pas « Profil à remplir » |
 | `À propos de moi/` | Les quatre fichiers existent et sont remplis : a-propos-de-moi.md, mon-secteur-chiffres.md, mes-regles-decriture.md, ma-voix.md |
 | `Exemples/` | Au moins un vrai texte du courtier |
@@ -69,6 +69,14 @@ Une section « Mon équipe », juste après « Qui répond ici », avec un table
 Si le courtier a un `AI_CONTEXT.md`, le registre de l'équipe vit là, pas dans le CLAUDE.md. Ne le dupliquez pas.
 
 **Le routage fin ne va pas là.** À partir du quatrième poste seulement, quand deux agents peuvent se disputer une demande, le détail sort dans `Mes agents/[Associé]/regles/carte-routage.md`. C'est `activer-un-agent` qui le crée à ce moment-là.
+
+### Mon travail dans Chrome
+
+Aucun bureau monté avant la version 1.5.1 de la trousse n'a cette section. Ajoutez-la telle quelle depuis le gabarit, juste avant « Mes règles permanentes ».
+
+C'est elle qui dit à l'assistant que Centris, Matrix, les formulaires et le CRM du courtier font partie de son travail, et qu'un site ouvert dans Chrome est une invitation à y aller. Sans elle, un assistant qui reçoit « sors-moi des comparables dans Matrix » peut refuser par prudence, et le courtier abandonne. Le cas s'est produit en novembre 2026.
+
+Si le courtier a déjà écrit une règle sur Chrome (par exemple une section « Mes sites ouverts dans Chrome »), remplacez-la par celle du gabarit au lieu d'en garder deux, et gardez à la fin de la section ce qu'elle contenait de plus : un site nommé, une consigne à lui.
 
 ## Étape 4 : un fichier vide ? Cherchez d'abord dans ses conversations
 
