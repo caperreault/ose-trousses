@@ -49,6 +49,8 @@ La phrase qui marche:
 
 **C'est l'erreur numéro un.** Un assistant qui répond qu'il n'a pas accès à Centris a presque toujours raison sur le moment et tort sur le fond: il lui manque une fenêtre ouverte, pas une permission.
 
+**S'il vous demande de coller les adresses de vos onglets**, dites-lui simplement : « Ouvre les pages toi-même. » Il ne voit pas les onglets que vous ouvrez à la main, seulement les siens, mais les siens partagent vos sessions de Chrome : si vous êtes connecté, il l'est aussi. Il ne tapera jamais votre mot de passe. S'il tombe sur une page de connexion, il vous le dit, vous vous reconnectez, il reprend.
+
 **Si Chrome est ouvert, que vous êtes connecté, et qu'il refuse quand même** avec un message en anglais comme *Permission denied for this action on this domain* ou *Navigation to this domain is not allowed*, ce n'est ni Centris, ni votre compte, ni votre installation. C'est un problème connu de l'application Claude avec l'extension Chrome. Mettez l'application et l'extension à jour, redémarrez les deux et réessayez. Si ça refuse encore, passez par le navigateur intégré de l'application, le panneau Browser de l'onglet Code: connectez-vous-y vous-même au site, et donnez la mission là.
 
 ## Les trois règles qui ne changent jamais

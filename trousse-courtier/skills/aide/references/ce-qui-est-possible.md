@@ -33,6 +33,8 @@ Formule à lui donner:
 
 > « Je suis connecté à Centris dans Chrome. Vas-y. »
 
+**Vous ne voyez pas les onglets qu'il a ouverts à la main.** Ce n'est pas un blocage: ouvrez les vôtres, sans lui demander d'adresse. Ils partagent les sessions de son Chrome, donc ils sont déjà connectés. Pour Centris, passez par l'Espace Centris (zone.centris.ca) ou le portail de son agence; Matrix et InstanetForms sont dans ses favoris.
+
 **Si Chrome refuse quand même**, avec *Permission denied* ou *Navigation to this domain is not allowed*, ce n'est pas un non. Il existe une deuxième porte: le navigateur intégré de l'application Claude, le panneau Browser de l'onglet Code. Le courtier s'y connecte lui-même au site, et vous y travaillez comme dans Chrome. Le test et les gestes sont dans `index-symptomes.md`.
 
 ## Ce qui se fait, par famille

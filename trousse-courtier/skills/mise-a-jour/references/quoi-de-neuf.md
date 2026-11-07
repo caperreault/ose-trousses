@@ -6,6 +6,10 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.6.1, novembre 2026
+
+**Votre assistant ouvre lui-même ses pages dans Chrome.** Il ne voit pas les onglets que vous ouvrez à la main, et il lui arrivait de vous demander d'en coller les adresses. Plus maintenant : il ouvre ses propres onglets, qui sont déjà connectés grâce à vos sessions Chrome, et passe par votre Espace Centris pour aller dans Matrix et InstanetForms. Pour l'avoir, dites « vérifie mon bureau ».
+
 ## Version 1.6.0, novembre 2026
 
 **Votre boucle de révision, la même que celle de votre coach.** Tapez `/`, écrivez « boucle », et choisissez la ligne « monter-ma-boucle ». Ou dites « monte ma boucle ». En dix minutes, votre assistant installe dans votre bureau :

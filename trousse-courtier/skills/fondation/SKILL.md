@@ -76,6 +76,8 @@ Aucun bureau monté avant la version 1.5.1 de la trousse n'a cette section. Ajou
 
 C'est elle qui dit à l'assistant que Centris, Matrix, les formulaires et le CRM du courtier font partie de son travail, et qu'un site ouvert dans Chrome est une invitation à y aller. Sans elle, un assistant qui reçoit « sors-moi des comparables dans Matrix » peut refuser par prudence, et le courtier abandonne. Le cas s'est produit en novembre 2026.
 
+Un bureau monté avant la version 1.6.1 a la section sans la ligne « Tu ne vois pas les onglets que j'ouvre moi-même ». Ajoutez cette ligne mot pour mot depuis le gabarit, juste après la première de la section. Sans elle, l'assistant ne voit pas les onglets que le courtier a ouverts à la main, lui demande de coller les adresses, et le courtier croit qu'il est bloqué. Le cas s'est produit le 7 novembre 2026.
+
 Si le courtier a déjà écrit une règle sur Chrome (par exemple une section « Mes sites ouverts dans Chrome »), remplacez-la par celle du gabarit au lieu d'en garder deux, et gardez à la fin de la section ce qu'elle contenait de plus : un site nommé, une consigne à lui.
 
 ## Étape 4 : un fichier vide ? Cherchez d'abord dans ses conversations
