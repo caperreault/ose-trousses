@@ -6,6 +6,10 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.7.0, novembre 2026
+
+**Le conseil des cinq, pour vos grosses décisions.** Dites « conseil des cinq : est-ce que je prends cette inscription à 12 % au-dessus du marché, oui ou non? ». Cinq conseillers qui ne pensent pas pareil analysent votre décision, se critiquent entre eux sans savoir qui a écrit quoi, puis un président vous remet une seule recommandation et une première action. Votre assistant vous demande vos chiffres et vos contraintes s'il lui en manque. À garder pour les décisions rares, celles qui vous tiennent éveillé.
+
 ## Version 1.6.1, novembre 2026
 
 **Votre assistant ouvre lui-même ses pages dans Chrome.** Il ne voit pas les onglets que vous ouvrez à la main, et il lui arrivait de vous demander d'en coller les adresses. Plus maintenant : il ouvre ses propres onglets, qui sont déjà connectés grâce à vos sessions Chrome, et passe par votre Espace Centris pour aller dans Matrix et InstanetForms. Pour l'avoir, dites « vérifie mon bureau ».

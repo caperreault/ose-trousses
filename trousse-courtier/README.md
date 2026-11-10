@@ -46,6 +46,7 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 | **Humaniser** | Enlève le son de robot d'un texte, garde le vôtre |
 | **Vérifier une ressource** | Regarde un fichier téléchargé avant que vous l'ouvriez |
 | **OSE Coaching** | Répond à vos questions sur OSE: les formations, laquelle vous convient, à qui écrire |
+| **Conseil des cinq** | Cinq avis opposés sur une décision qui compte, puis une recommandation et une première action |
 | **Activer un agent** | Ajoute un coéquipier à votre équipe, ou monte toute l'équipe d'un coup, et range vos compétences pour votre associé |
 | **Boucle de révision** | Des gardiens qui bloquent vos mots interdits et vos mots de passe avant qu'ils s'écrivent, le gardien des règles et le réviseur à froid avant que ça sorte, et vos corrections qui descendent dans vos fichiers |
 
