@@ -101,8 +101,9 @@ Rien trouvé ? Claude Code efface ses vieilles conversations après environ 30 j
 
 Si `Exemples/` est vide, ou si `ma-voix.md` dit « À enrichir avec mes courriels envoyés », regardez si son courriel est branché (le devoir de la semaine du Jour 1).
 
-- **Branché :** proposez-le. « Je peux lire vos courriels envoyés des six derniers mois pour trouver vos meilleurs textes et compléter votre voix. D'accord? » Sur son oui, lisez ses envoyés. Gardez seulement ce qu'il a écrit lui-même : ni les envois automatiques, ni les transferts, ni les réponses d'une ligne. Rangez un bon courriel de suivi dans `Exemples/courriel-suivi.md`, une lettre ou présentation dans `Exemples/lettre-presentation.md`, et un texte délicat (mauvaise nouvelle, refus, négociation) s'il y en a un. Remplacez les noms de clients par [client] : un exemple sert à copier la forme. Puis complétez `ma-voix.md` avec ce que vous observez (longueur des phrases, vouvoiement ou tutoiement, ouverture, fermeture, expressions qui reviennent) et retirez la ligne « À enrichir ».
+- **Branché :** proposez-le. « Je peux lire vos courriels envoyés des six derniers mois, et vos textos si vous êtes sur Mac, pour décrire votre vraie voix et trouver vos meilleurs textes. D'accord? » Sur son oui, suivez la compétence `ma-voix` au complet, test à l'aveugle compris, puis revenez à l'étape 6.
 - **Pas branché :** notez-le au bulletin avec le geste : dans l'application Claude, Personnaliser, puis Connecteurs, puis le +.
+- **Déjà fait, mais vieux :** si la section « Ce que mes textes montrent » de `ma-voix.md` dit « À refaire vers le [date] » et que la date est passée, notez-le au bulletin avec la phrase : « Dites "mets ma voix à jour" ».
 
 ## Étape 6 : les agents, leur mémoire et leur liste de lecture
 

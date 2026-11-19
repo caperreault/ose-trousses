@@ -7,6 +7,7 @@ La colonne « Qui s'en sert » nomme un poste. Dans le bureau du courtier, rempl
 | Compétence | Ce qu'elle fait pour vous | La phrase à dire | Qui s'en sert |
 |---|---|---|---|
 | suivi-client | La liste des gens à rappeler aujourd'hui, avec le message déjà écrit | « Fais ma liste de suivis du jour » | Prospection et suivis |
+| clients-dormants | Les gens qui vous ont parlé d'un projet sans jamais transiger avec vous, retrouvés et triés | « Trouve mes clients dormants » | Prospection et suivis |
 | visites-libres | Chaque visiteur d'une visite libre devient un suivi personnalisé | « Voici ma feuille de visite libre » | Prospection et suivis |
 | chercheur-rendez-vous | Les rendez-vous et les échéances oubliés dans vos courriels, déposés dans votre calendrier IA | « Cherche mes rendez-vous oubliés » | Associé |
 | contrat-de-courtage | Le contrat de courtage préparé, avec ce qui reste à confirmer avant signature | « Prépare le contrat de courtage du [adresse] » | Associé |
@@ -16,6 +17,7 @@ La colonne « Qui s'en sert » nomme un poste. Dans le bureau du courtier, rempl
 | analyse-inspection | Un rapport d'inspection ou des documents de copropriété résumés pour vos clients | « Résume ce rapport d'inspection pour mes clients » | Transactions |
 | depenses-courtier | Vos reçus classés et le relevé de l'année pour votre comptable | « Classe mes reçus » | Comptabilité |
 | fiche-centris | La description de votre inscription qui vend le style de vie | « Rédige ma fiche Centris pour le [adresse] » | Contenu et clients |
+| ma-voix | Votre voix décrite à partir de ce que vous avez vraiment écrit, et vérifiée par un test à l'aveugle | « Apprends ma voix » | Contenu et clients |
 | humaniser | Un texte qui ne sonne plus comme une IA | « Humanise ça » | Contenu et clients |
 | expert-quartier | Le portrait complet d'un quartier, pour parler comme quelqu'un qui le travaille depuis dix ans | « Fais-moi le portrait du quartier de [secteur] » | Contenu et clients, Veille de marché |
 | stats-marche | Les statistiques de votre secteur, prêtes pour une présentation | « Mes statistiques de marché pour [secteur] » | Veille de marché |

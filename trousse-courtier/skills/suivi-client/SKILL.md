@@ -50,11 +50,15 @@ Présente chaque message dans un bloc clair que le courtier peut copier d'un cou
 
 ## 3. Règles de rédaction des messages
 
-Tous les messages sont au vouvoiement et en français québécois professionnel. Le ton du courtier est direct, chaleureux et humain, jamais robotique. Adapte l'angle selon le segment.
+Avant d'écrire, lis `À propos de moi/ma-voix.md` et le dossier `Exemples/` s'ils existent : ils décrivent comment le courtier écrit vraiment, et ils priment sur tout ce qui suit. Sans eux, les messages sont au vouvoiement et en français québécois professionnel. Le ton du courtier est direct, chaleureux et humain, jamais robotique. Adapte l'angle selon le segment.
 
 ### Clients en transaction active
 Réfère-toi à la prochaine étape précise et explique à quoi s'attendre. Tu enlèves du stress au client.
 Exemple: "Bonjour Marc, votre inspection est confirmée jeudi à 14h. L'inspecteur prend environ deux heures, vous pouvez être présent pour poser vos questions directement. Je vous appelle en fin de journée pour faire le point sur ses observations."
+
+### Anciens prospects retrouvés
+Ce sont les gens sortis de la compétence `clients-dormants` : ils ont écrit au courtier un jour, et rien ne s'est fait. Pars de ce que la personne a dit, avec le mois ou la saison, pour montrer qu'il se souvient. Si c'est elle qui avait écrit en dernier sans réponse, le courtier le reconnaît simplement, sans se justifier. Une seule question facile à répondre, jamais de pression.
+Exemple: "Bonjour Julie, vous m'aviez écrit au printemps dernier au sujet de votre condo sur [rue]. Je n'avais jamais donné suite, désolé. Est-ce que le projet est toujours dans l'air?"
 
 ### Prospects chauds
 Réfère-toi à ce qu'ils cherchaient, précisément. Tu montres que tu te souviens d'eux.

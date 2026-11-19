@@ -30,7 +30,7 @@ Les causes sont classées par fréquence réelle, observées dans les cohortes d
 | « J'ai une adresse Hotmail ou Outlook personnelle » | Pas le même connecteur que Microsoft 365 | Le connecteur Outlook, avec son compte personnel. Garder le cellulaire proche pour le code |
 | « Je veux qu'il voie mon agenda » | Connecteur pas branché | Créer d'abord un calendrier séparé nommé `IA`, ensuite brancher. Il écrit là, jamais dans le vrai agenda |
 | « Je ne veux pas qu'il touche à mon vrai agenda » | Crainte légitime | Le calendrier `IA` existe pour ça. Il propose, le courtier glisse lui-même ce qui est bon |
-| « Je veux qu'il lise mes textos » | Limite réelle | Mac avec iPhone: oui, avec une installation de plus. PC ou Android: non, et rien n'y change |
+| « Je veux qu'il lise mes textos » | Limite réelle | Mac avec iPhone: oui, en lecture seule, une fois l'Accès complet au disque donné à Claude (Réglages Système, Confidentialité et sécurité). Les compétences `ma-voix` et `clients-dormants` s'en servent. PC ou Android: non, et rien n'y change |
 | « Je veux qu'il travaille dans mes fichiers » | Le dossier n'est pas le bon | Mettre les documents dans son bureau IA, ou ouvrir la conversation sur le dossier où ils sont |
 | « Est-ce que je peux brancher Centris » | Non, pas de connecteur Centris | Le chemin est Chrome: il se connecte, l'agent travaille dans sa session ouverte |
 | « J'ai tout ouvert dans Chrome et il me demande les adresses » ou « il dit qu'il ne voit pas mes onglets » | Vrai, et sans importance: l'extension ne voit pas les onglets ouverts à la main, seulement les siens. Mais les siens partagent les sessions de Chrome, donc ils sont déjà connectés | Vous ouvrez vous-même vos onglets, sans lui demander d'adresse. Pour Centris: l'Espace Centris (zone.centris.ca) ou le portail de son agence qui y mène, puis Matrix et InstanetForms par les favoris. Page de connexion: vous nommez le site en une ligne, il se reconnecte, vous reprenez. Pour que ça tienne, `/verifier-mon-bureau` ajoute la règle à sa fondation |
@@ -66,6 +66,7 @@ Les causes sont classées par fréquence réelle, observées dans les cohortes d
 |---|---|---|
 | « Il invente des chiffres » | Il a répondu sans source | Aucun chiffre de marché ne sort sans être vérifié à la source. Lui rappeler et refaire avec les vraies données |
 | « Ça sonne comme un robot » | Sortie non retravaillée | Compétence `humaniser` |
+| « Ça ne sonne pas comme moi » | Profil de voix vide ou deviné | Compétence `ma-voix` : « apprends ma voix » |
 | « Mes accents sont tout croches » | Copie passée par un mauvais chemin | Recoller depuis le fichier, pas depuis le terminal ou un presse-papier intermédiaire |
 | « Il ne voit pas ma pièce jointe » | Il lit le courriel, pas le fichier attaché | Enregistrer la pièce jointe dans son dossier, puis la lui montrer |
 | « Les chiffres de mon tableau sont faux » | Lecture automatique d'un chiffrier | Un chiffre se vérifie toujours dans le fichier source avant d'être cité |

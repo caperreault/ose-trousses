@@ -27,7 +27,9 @@ Votre assistant écrit là, et seulement là. Vous regardez, vous gardez ce qui 
 
 ## Vos textos
 
-Les textos ne sont lisibles que sur un Mac avec un iPhone, et seulement après une installation supplémentaire. Sur Android, ils ne sont pas atteignables depuis un ordinateur, et aucun outil n'y change rien.
+Les textos ne sont lisibles que sur un Mac relié à votre iPhone, quand Messages y est ouvert et synchronisé. Votre assistant les lit en lecture seule, sans rien installer, si vous donnez une fois à l'application Claude l'**Accès complet au disque** : Réglages Système, Confidentialité et sécurité, Accès complet au disque, activez Claude, puis fermez et rouvrez l'application. Les compétences `ma-voix` et `clients-dormants` vous le demanderont au bon moment.
+
+Sur PC ou sur Android, ils ne sont pas atteignables depuis un ordinateur, et aucun outil n'y change rien.
 
 Ce n'est pas grave. Les rendez-vous qui comptent passent presque toujours par le courriel.
 

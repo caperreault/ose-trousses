@@ -6,6 +6,12 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.8.0, novembre 2026
+
+**Votre assistant écrit comme vous.** Dites « apprends ma voix ». Il lit vos courriels envoyés des six derniers mois et, sur Mac, vos textos, il décrit comment vous écrivez à vos clients, à vos collègues et par texto, avec vos vraies phrases d'ouverture et de fermeture, et il range vos meilleurs textes comme modèles. Puis il vous fait passer un test : trois messages, un seul est de vous. Si vous ne trouvez pas le vôtre, c'est réussi.
+
+**Vos clients oubliés, retrouvés.** Dites « trouve mes clients dormants ». Votre assistant vous demande depuis quand chercher et où sont vos dossiers, puis il fouille vos courriels et vos textos pour trouver les gens qui vous ont parlé de vendre ou d'acheter et avec qui rien ne s'est fait. Il retire ceux qui sont déjà vos clients, met en premier ceux à qui vous n'aviez jamais répondu, et vous remet la liste dans Excel. Dites ensuite « écris les messages des dix premiers ».
+
 ## Version 1.7.0, novembre 2026
 
 **Le conseil des cinq, pour vos grosses décisions.** Dites « conseil des cinq : est-ce que je prends cette inscription à 12 % au-dessus du marché, oui ou non? ». Cinq conseillers qui ne pensent pas pareil analysent votre décision, se critiquent entre eux sans savoir qui a écrit quoi, puis un président vous remet une seule recommandation et une première action. Votre assistant vous demande vos chiffres et vos contraintes s'il lui en manque. À garder pour les décisions rares, celles qui vous tiennent éveillé.

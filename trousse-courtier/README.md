@@ -40,9 +40,11 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 | **Analyse d'inspection** | Soixante pages de rapport technique, vulgarisées pour votre client |
 | **Clauses OACIQ** | La bonne clause officielle, mot pour mot, jamais réécrite |
 | **Suivi client** | Qui contacter, pourquoi, et le message déjà rédigé |
+| **Clients dormants** | Les gens qui vous ont parlé de vendre ou d'acheter, retrouvés dans vos courriels et vos textos, sans ceux qui sont déjà vos clients |
 | **Visites libres** | La feuille de présence du dimanche devient des suivis dès le lundi |
 | **Chercheur de rendez-vous** | Les rendez-vous mentionnés dans vos courriels et jamais mis à l'agenda |
 | **Dépenses du courtier** | Vos dépenses classées, le relevé prêt pour votre comptable |
+| **Ma voix** | Votre façon d'écrire, lue dans vos courriels et vos textos envoyés, pour que votre assistant écrive comme vous |
 | **Humaniser** | Enlève le son de robot d'un texte, garde le vôtre |
 | **Vérifier une ressource** | Regarde un fichier téléchargé avant que vous l'ouvriez |
 | **OSE Coaching** | Répond à vos questions sur OSE: les formations, laquelle vous convient, à qui écrire |
