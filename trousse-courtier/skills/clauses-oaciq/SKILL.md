@@ -52,10 +52,12 @@ Confirme chaque fichier reçu et nomme celui qui manque encore. Quand les six so
 ## Procédure
 
 ### 1. Comprendre la demande
-Identifie le document visé (contrat de courtage, promesse d'achat, contre-proposition, modification, annexe G, vente d'entreprise) et la situation (financement, inspection, vices cachés, propriété à revenus, délai, occupation, non-concurrence, etc.). Si le document ou la situation est ambigu et que ça change la clause à choisir, pose une seule question courte avant de continuer. Exemple : « financement » peut viser un nouveau prêt (3.3) ou la prise en charge d'un prêt existant (3.4) en promesse d'achat.
+Identifie le document visé (contrat de courtage, promesse d'achat, contre-proposition, modification, annexe G, vente d'entreprise) et la situation (financement, inspection, vices cachés, propriété à revenus, délai, occupation, non-concurrence, etc.). Si le document ou la situation est ambigu et que ça change la clause à choisir, pose une seule question courte avant de continuer. Exemple : « inspection » peut viser l'inspection à la satisfaction de l'acheteur ou une inspection précise, comme celle de la cheminée ou de la piscine.
+
+**Vente sans garantie : une étape de plus, obligatoire.** Dès que la demande touche l'exclusion de la garantie légale (« sans garantie », « risques et périls », vices cachés, succession, reprise de finance), lis d'abord `references/garantie-legale-deux-paliers.md` et suis son ordre : expliquer les deux paliers au courtier, poser les questions qui décident du palier, puis seulement livrer la clause officielle qui correspond. Ne livre jamais l'exclusion complète (« aux risques et périls ») par défaut : l'OACIQ la réserve aux cas exceptionnels. Le courtier doit comprendre la différence avant d'appliquer la clause, et pouvoir l'expliquer à son client.
 
 ### 2. Chercher dans le lexique
-Ouvre le PDF de la catégorie, repère la ou les clauses candidates, puis **ouvre le fichier de catégorie correspondant et lis le texte verbatim**. Ne reproduis jamais une clause de mémoire ni à partir de l'index seul : l'index ne contient que les titres, pas le texte exact.
+Ouvre le PDF de la catégorie, repère la ou les clauses candidates dans sa table des matières, puis **lis le texte de la clause verbatim dans le PDF**. Ne reproduis jamais une clause de mémoire ni à partir de la table des matières seule : elle ne contient que les titres, pas le texte exact.
 
 ### 3. Préparer la clause
 Reprends le texte officiel **mot pour mot**. La seule modification permise est de remplir les blancs (`____`, ou les choix entre parenthèses comme `(est/n'est pas)`) avec les détails que le courtier a fournis.
@@ -87,13 +89,17 @@ Ne propose jamais un brouillon de la clause manquante, même partiel, même « �
 
 **Exemple 1 : clause existante, détails fournis**
 Demande : « Rédige-moi la clause d'inspection, 10 jours. »
-Réponse : ouvre le fichier de la promesse d'achat, repère la clause d'inspection de l'immeuble, reproduis son texte **mot pour mot**, insère 10 dans le blanc du délai, puis termine par la ligne de source et « À compléter : aucun ».
+Réponse : ouvre le PDF de la promesse d'achat, repère la clause d'inspection de la cheminée, reproduis son texte **mot pour mot**, insère 10 dans le blanc du délai, puis termine par la ligne de source et « À compléter : aucun ».
 
 **Exemple 2 : clause existante, détails manquants**
-Demande : « J'ai besoin de la clause de financement par nouveau prêt pour ma promesse. »
-Réponse : reproduire la clause 3.3 verbatim avec les `____` intacts, source indiquée, et « À compléter : nombre de jours, montant du prêt, période d'amortissement, taux d'intérêt maximal ».
+Demande : « J'ai besoin de la clause d'inspection à la satisfaction de l'acheteur. »
+Réponse : reproduire la clause verbatim avec le blanc du délai intact, source indiquée, et « À compléter : nombre de jours ». Rappeler la note officielle qui l'accompagne : la clause d'inspection du formulaire doit alors être rayée et la rature paraphée par les deux parties.
 
-**Exemple 3 : clause inexistante**
+**Exemple 3 : vente sans garantie**
+Demande : « Mets-moi la clause sans garantie pour ma promesse d'achat. »
+Réponse : ne pas livrer de clause tout de suite. Expliquer en quelques lignes les deux paliers (`references/garantie-legale-deux-paliers.md`), puis demander pourquoi le vendeur exclut la garantie et s'il est un professionnel. Selon la réponse, livrer verbatim, depuis le PDF, l'exclusion spécifique au vendeur immédiat, l'exclusion sur certaines composantes ou, seulement dans un cas exceptionnel, l'exclusion complète, avec la note officielle et le rappel du conseiller juridique et de l'inspection.
+
+**Exemple 4 : clause inexistante**
 Demande : « Mets-moi une clause qui oblige le vendeur à repeindre toutes les pièces avant la vente. »
 Réponse :
 > Cette clause n'existe pas dans le lexique des clauses types de l'OACIQ. Elle doit donc être rédigée au complet par vous, selon la situation et la volonté des parties.

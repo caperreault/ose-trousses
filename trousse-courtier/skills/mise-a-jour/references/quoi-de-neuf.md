@@ -6,6 +6,10 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.8.1, novembre 2026
+
+**Vendre sans garantie : la différence expliquée avant la clause.** Quand vous demandez une clause sans garantie légale, votre assistant ne vous donne plus d'emblée la clause « aux risques et périls de l'acheteur ». Il vous explique d'abord la différence entre une simple exclusion et une exclusion aux risques et périls, ce que chacune laisse comme recours à l'acheteur, et ce que l'OACIQ recommande. Puis il vous pose deux ou trois questions sur le vendeur et vous donne la bonne clause officielle, tirée de vos PDF de l'OACIQ.
+
 ## Version 1.8.0, novembre 2026
 
 **Votre assistant écrit comme vous.** Dites « apprends ma voix ». Il lit vos courriels envoyés des six derniers mois et, sur Mac, vos textos, il décrit comment vous écrivez à vos clients, à vos collègues et par texto, avec vos vraies phrases d'ouverture et de fermeture, et il range vos meilleurs textes comme modèles. Puis il vous fait passer un test : trois messages, un seul est de vous. Si vous ne trouvez pas le vôtre, c'est réussi.
