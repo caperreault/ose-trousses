@@ -35,7 +35,7 @@ Vous ne les appelez pas par leur nom. Vous parlez normalement, elles se déclenc
 | **Contrat de courtage** | Le contrat préparé à partir de vos documents, avec la liste de ce qui manque avant signature |
 | **Fiche Centris** | La fiche descriptive de votre inscription |
 | **Expert de quartier** | Le portrait complet d'un secteur, pour parler comme quelqu'un qui le travaille depuis dix ans |
-| **OVM et comparables** | L'analyse de valeur marchande, et la matière pour l'expliquer à votre vendeur |
+| **OVM et comparables** | L'analyse de valeur marchande et le bon prix d'inscription selon la méthode OSE : comparables en trois niveaux, absorption, prix réaliste et optimiste, plan de baisse, mise en marché et rencontre avec le vendeur |
 | **Statistiques de marché** | Les chiffres de votre secteur, mois par mois |
 | **Analyse d'inspection** | Soixante pages de rapport technique, vulgarisées pour votre client |
 | **Clauses OACIQ** | La bonne clause officielle, mot pour mot, jamais réécrite |

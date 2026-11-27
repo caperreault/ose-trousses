@@ -1,90 +1,99 @@
 # Formats de sortie
 
-Deux livrables à chaque OVM: l'analyse interne complète (Format A), puis la version vendeur (Format B). Produire les deux, dans cet ordre, sauf si le courtier demande explicitement un seul des deux.
+Deux livrables à chaque OVM : l'analyse interne complète (Format A), puis le document vendeur (Format B). Produire les deux, dans cet ordre, sauf si le courtier en demande un seul.
 
 ## Note pré-visite
 
-Si le courtier n'a pas encore visité ou revisité la propriété, l'écrire clairement, en haut du Format A et en une phrase dans le Format B: l'opinion est établie sur papier, à partir des documents fournis, et devra être confirmée après la visite. Ne jamais présenter une OVM sur papier comme définitive quand la visite reste à faire.
+Si le courtier n'a pas encore visité ou revisité la propriété, l'écrire clairement, en haut du Format A et en une phrase dans le Format B : l'opinion est établie sur papier, à partir des documents fournis, et sera confirmée après la visite. L'état de la propriété est alors présumé, et il faut le dire.
 
 ## Format A, analyse interne complète
 
-Écrite pour le courtier, tutoiement, ton direct de collègue d'expérience. Suivre cet ordre exact:
+Écrite pour le courtier, tutoiement, ton direct de collègue d'expérience. Dans cet ordre :
 
 ```
 # Opinion de valeur marchande, [adresse complète]
 ```
 
 **1. Profil du sujet**
-Adresse, type de propriété, superficie, chambres/salles de bains, étage si applicable, année de construction, particularités. Mentionner explicitement si l'opinion est établie sur papier (voir ci-dessus).
+Adresse, type, superficie, chambres et salles de bains, étage si applicable, année de construction, particularités, historique (inscriptions passées, expirations). Objectif du vendeur et sa date, s'ils sont connus. Mention « sur papier » si la visite reste à faire.
 
 **2. Données utilisées**
-Nombre de vendus et d'actifs analysés, période couverte, source (Matrix ou Centris), et toute hypothèse posée faute de donnée précise.
+Les PDF sortis (les trois niveaux, avec leurs critères), le nombre de vendus et d'actifs, la période couverte, la source, la date de l'extraction, et toute hypothèse posée faute de donnée.
 
 **3. Comparables retenus**
 3 à 5 comparables clés, un paragraphe chacun selon le gabarit de `grille-ajustements.md`.
 
 **4. Comparables écartés**
-Les comparables qui apparaissaient dans les documents mais qui ne sont pas retenus, avec une phrase chacun sur pourquoi ils pèsent moins.
+Une phrase chacun sur pourquoi il pèse moins. Inclure les ventes que le vendeur connaît probablement (même rue, voisin, duProprio) et ce qu'il faudra lui répondre.
 
 **5. Ajustements**
-Synthèse qualitative: ce qui tire la valeur du sujet vers le haut, ce qui la tire vers le bas, en s'appuyant sur les comparables nommés à l'étape 3. Pas de liste générique, chaque point doit être ancré dans un fait des documents.
+Ce qui tire la valeur du sujet vers le haut, ce qui la tire vers le bas, chaque point ancré dans un fait des documents. Aucun montant en dollars inventé.
 
 **6. Analyse des vendus**
-Ce que les ventes comparables démontrent sur la valeur, en respectant la hiérarchie des comparables et les règles d'interprétation de `methode-generale.md`.
+Ce que les ventes démontrent sur la valeur, selon la hiérarchie et les règles de `methode-generale.md`. L'écart entre le prix demandé initial et le prix vendu, et les délais réels.
 
 **7. Analyse des actifs**
-Comment le sujet se positionne contre ce qui se vend actuellement dans le même segment: est-il mieux ou moins bien placé que la concurrence directe.
+Où le sujet se classe contre sa compétition directe, au prix recommandé : parmi les trois meilleures de sa course, ou non.
 
-**8. Absorption**
-Calcul et lecture selon `methode-generale.md`: ventes mensuelles, mois d'inventaire, ce que ça dit sur le rythme du marché pour ce segment.
+**8. Absorption et marché**
+Ventes par mois, mois d'inventaire, lecture selon les repères québécois. Par gamme de prix et par période quand l'échantillon le permet. La saison.
 
-**9. Fourchettes**
+**9. Prix**
 ```
-**Prix réaliste: XXX 000 $ à YYY 000 $**
-**Prix optimiste: ZZZ 000 $ à WWW 000 $**
+**Prix réaliste : XXX 000 $**
+**Prix optimiste : YYY 000 $**
+**Prix d'affichage recommandé : ZZZ 000 $**
 ```
-Une phrase qui justifie l'écart entre les deux fourchettes.
+La base de chaque prix, et une phrase qui justifie l'écart entre le réaliste et l'optimiste. Au besoin, la zone de vente probable et le point central.
 
-**10. Stratégie**
-```
-**Inscription à XXX 000 $ avec/sans date d'offres**
-```
-Justification: positionnement par rapport au marché, effet attendu sur le trafic, vente attendue dans quel intervalle, scénario exceptionnel possible si pertinent.
+**10. Stratégie et plan de baisse**
+Le positionnement, l'effet attendu sur les visites, le délai de vente attendu. La date de la première réévaluation, les déclencheurs, le plancher. Jamais de date d'offres par défaut, jamais de prix d'appel sous la valeur (`strategie-prix.md`).
 
-**11. Risques**
-Ce qui pourrait empêcher d'atteindre le scénario optimiste, et les déclencheurs qui justifieraient un ajustement de prix après la mise en marché (ex: X visites sans offre après Y semaines, apparition d'un nouveau comparable qui change le portrait).
+**11. Mise en marché**
+Qui va acheter, pourquoi, et ce que la fiche doit dire. Les points du plan d'action qui comptent pour ce produit (`mise-en-marche.md`).
 
-**12. Renseignements à confirmer**
-2 à 3 points précis: données manquantes (évaluation municipale, etc.), timing du marché à respecter, argument à reformuler avant la mise en marché.
+**12. La rencontre**
+Ce que le vendeur a en tête, les objections probables et le fait du dossier qui répond à chacune, l'ordre de présentation (`presenter-au-vendeur.md`).
 
-Si une analyse ou une opinion externe a été fournie en référence (une autre IA, un autre courtier), en tenir compte dans l'analyse: être d'accord ou en désaccord avec justification, à l'endroit pertinent (généralement dans les fourchettes ou la stratégie). Ce n'est pas une section dédiée obligatoire, seulement un point de comparaison quand il existe.
+**13. Risques et renseignements à confirmer**
+Ce qui pourrait empêcher le prix optimiste. Deux ou trois points précis à confirmer : état à la visite, données manquantes, calendrier.
 
-Terminer sans postambule (pas de "n'hésite pas", pas de "bonne chance avec la vente").
+Si une autre opinion a été fournie en référence (une autre IA, un autre courtier), en tenir compte à l'endroit pertinent, d'accord ou en désaccord, avec la raison.
 
-## Format B, version vendeur
+Terminer sans formule de politesse. La dernière phrase est une conclusion.
 
-Écrite pour le client du courtier, tutoiement, courte, professionnelle, directe, facile à comprendre, sans balise de référence technique (pas de "voir section 6", pas de jargon d'analyse). Dans la langue demandée par le courtier.
+## Format B, document vendeur
 
-Contenu:
-- Ce que le marché dit de la propriété, en langage simple, sans énumérer les comparables un par un.
-- Le prix d'affichage recommandé, avec une justification courte et défendable.
-- Ce à quoi s'attendre (délai probable, scénario si le marché répond bien).
-- Une recommandation claire, pas une liste d'options à choisir.
+**Le document vendeur est factuel.** Des tableaux, des faits, une conclusion chiffrée dont chaque chiffre porte sa base (une vente ou une statistique citée). Il doit pouvoir être relu par un autre courtier, ou par l'OACIQ, sans qu'une seule phrase ait à être défendue.
 
-Pas de fourchette réaliste/optimiste étalée comme dans le Format A: le vendeur a besoin d'une recommandation, pas d'un tableau d'analyse.
+Ce qu'il contient, avec des titres simples :
+- **La propriété** : une ligne de description, sur le même modèle que les comparables.
+- **Ventes comparables** : le tableau des vendus retenus, du moins cher au plus cher (prix vendu, délai, superficie, caractéristiques). Sans adresse complète.
+- **Inscriptions en vigueur** : la compétition, sur le même modèle.
+- **Le marché** : ventes par mois, mois d'inventaire, et au besoin le marché par période.
+- **Conclusion** : le prix réaliste, le prix optimiste et le prix d'affichage recommandé, chacun avec sa base. Puis ce à quoi s'attendre : le délai probable et la date de la première réévaluation.
+
+Ce qu'il ne contient jamais :
+- aucune phrase de commentaire, aucune formule, aucun marché qui « dit », « voit », « attend » ou « répond » ;
+- pas de paragraphe d'atouts et de limites raconté : la propriété entre dans le tableau comme les autres ;
+- aucun conseil sur la fiche ou sur le travail d'un autre courtier ;
+- aucun jargon d'analyse, aucun renvoi du genre « voir section 6 ».
+
+Le courriel ou la conversation qui accompagne le document peut garder la voix du courtier. Le document, non.
+
+Les PDF de comparables (`extraction-matrix.md`) se joignent au document ou se remettent à la rencontre, dans le format courtier. Le courtier n'a rien à cacher dans ce format, et le vendeur lit l'échelle des prix lui-même.
+
+**Vouvoiement par défaut.** Le tutoiement seulement si le courtier tutoie déjà ce client. Dans la langue du client.
 
 ## Vocabulaire et style
 
-- Français québécois professionnel ou anglais canadien, selon la langue demandée.
-- Ton de courtier avec plus de 25 ans d'expérience: direct, factuel, sans remplissage.
-- Phrases courtes, voix active.
-- Aucun tiret cadratin.
-- Utiliser "rétribution" plutôt que "commission" en français.
+- Français québécois professionnel ou anglais canadien, selon le client.
+- Phrases courtes, voix active, aucun tiret cadratin.
+- « Rétribution » plutôt que « commission » en français.
 - Le document porte la signature du courtier et celle de son agence, rien d'autre.
-- Ne pas exagérer les forces ni cacher les faiblesses de la propriété.
-- Pas de superlatifs vides ("incroyable", "extraordinaire").
-- Conclusion ferme à la fin, jamais une formule générique de clôture.
+- Pas de superlatifs vides.
+- N'exagérez pas les forces, ne cachez pas les faiblesses.
 
 ## Sauvegarde
 
-Sauvegarder le Format A et le Format B en docx ou markdown dans `Résultats/OVM/` du bureau IA du courtier, nommés avec l'adresse et la date.
+Sauvegarder le Format A et le Format B en docx ou markdown dans `Résultats/OVM/` du bureau IA du courtier, nommés avec l'adresse et la date. Les PDF de comparables et l'analyse vont aussi dans le dossier de la propriété : ils documentent le conseil donné (`strategie-prix.md`).

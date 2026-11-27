@@ -6,6 +6,10 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.9.0, novembre 2026
+
+**Vos OVM suivent maintenant la méthode OSE au complet.** Dites « fais-moi un OVM pour [adresse] ». Votre assistant sort vos comparables de Matrix en trois niveaux, toujours du moins cher au plus cher : la liste partielle qui montre l'offre et la demande, le 4 par page sur les propriétés qui ressemblent, et deux à quatre fiches détaillées avec photos. Il calcule les mois d'inventaire avec les repères du Québec, vous donne un prix réaliste et un prix optimiste avec leur base, et prépare le plan de baisse avant l'inscription. Il vous aide aussi à préparer la mise en marché (qui va acheter, pourquoi, et est-ce que la fiche le dit) et la rencontre avec le vendeur, où c'est lui qui voit le prix dans les comparables. Le document remis au vendeur est maintenant factuel et au vouvoiement. L'assistant ne propose plus de date d'offres, et ne recommande jamais d'afficher sous la valeur pour créer des offres multiples : l'OACIQ l'interdit.
+
 ## Version 1.8.1, novembre 2026
 
 **Vendre sans garantie : la différence expliquée avant la clause.** Quand vous demandez une clause sans garantie légale, votre assistant ne vous donne plus d'emblée la clause « aux risques et périls de l'acheteur ». Il vous explique d'abord la différence entre une simple exclusion et une exclusion aux risques et périls, ce que chacune laisse comme recours à l'acheteur, et ce que l'OACIQ recommande. Puis il vous pose deux ou trois questions sur le vendeur et vous donne la bonne clause officielle, tirée de vos PDF de l'OACIQ.

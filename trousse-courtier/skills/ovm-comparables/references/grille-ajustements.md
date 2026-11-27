@@ -4,6 +4,12 @@ Cette grille sert à comparer le sujet à chaque comparable retenu. Elle n'est p
 
 Ne jamais inventer un ajustement monétaire précis ("ce comparable vaut 15 000 $ de moins à cause de l'étage"). Écrire plutôt le raisonnement: "l'étage 2 avec vue dégagée pèse en faveur du sujet contre ce comparable au rez-de-chaussée sur rue passante."
 
+## La question à poser pour chaque comparable
+
+Regardez chaque comparable avec les yeux d'un acheteur qui visite les deux le même samedi. Qu'est-ce qu'il remarque à la visite? Qu'est-ce qu'il devra assumer après l'achat? Le sujet vaut-il plus, moins ou pareil, et pourquoi? L'état, les travaux à faire, le garage, le bruit, la vue ou un logement libre peuvent changer la réponse.
+
+Quand le courtier corrige un fait sur un comparable (pas rénové, pas haut de gamme, à paliers plutôt qu'à étages), refaites le raisonnement à partir du fait corrigé : son poids et la fourchette peuvent changer.
+
 ## Facteurs à analyser
 
 **Localisation et environnement**
@@ -22,6 +28,7 @@ Ne jamais inventer un ajustement monétaire précis ("ce comparable vaut 15 000 
 
 **Coûts et contexte de copropriété**
 - frais de copropriété et services inclus
+- copropriété divise ou indivise (financement, mise de fonds), sans l'écarter d'office
 - occupation possible par le propriétaire (libre à l'achat ou non)
 
 **Rareté et revenus**
