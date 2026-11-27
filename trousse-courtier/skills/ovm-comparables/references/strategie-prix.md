@@ -27,9 +27,13 @@ Dans l'analyse interne, ajoutez au besoin la zone de vente probable et le point 
 - **Affichez juste sous un seuil de recherche.** Les acheteurs cherchent par tranches de prix : 899 000 $ apparaît dans les recherches « jusqu'à 900 000 $ », 905 000 $ n'y apparaît pas. Vérifiez le seuil qui compte pour ce segment.
 - **La date d'offres n'est pas une stratégie par défaut.** Elle ne fait du sens que dans un marché très actif où les offres multiples sont fréquentes, ce qui n'est pas le cas dans un marché équilibré. L'OACIQ met aussi en garde contre la pratique de recevoir toutes les promesses à une date et une heure fixes, parce qu'elle va contre l'obligation de présenter chaque promesse dès qu'elle est reçue. Ne la proposez pas.
 
-## Ce que l'OACIQ interdit
+## Ce que dit l'OACIQ
 
-**Inscrire sous la valeur pour créer des offres multiples.** Exemple : la propriété vaut 500 000 $ selon les vendus, et on l'affiche à 450 000 $ pour provoquer de la demande et faire monter les offres. L'OACIQ ne permet pas de fixer un prix nettement inférieur à la valeur marchande et aux comparables dans le but de créer de la concurrence. Ne recommandez jamais cette stratégie, même si le vendeur la demande.
+**Inscrire sous la valeur pour créer des offres multiples est interdit.** Exemple : la propriété vaut 500 000 $ selon les vendus, et on l'affiche à 450 000 $ pour provoquer de la demande et faire monter les offres. Le texte de l'OACIQ, page « Établissement du juste prix de vente » : « un prix nettement inférieur à la valeur marchande et aux comparables utilisés, et ce, dans le but de créer une surenchère n'est pas permis. » Ne recommandez jamais cette stratégie, même si le vendeur la demande.
+
+**Une opinion fondée et motivée.** Selon la même page, le courtier fait une analyse comparative avec des propriétés semblables vendues récemment dans le même secteur, et donne une opinion fondée et motivée, selon les usages et les règles de l'art (art. 76 du Règlement sur les conditions d'exercice d'une opération de courtage, sur la déontologie des courtiers et sur la publicité). Il tient compte des besoins et de la situation du vendeur : une succession, une séparation, une vente sans garantie légale de qualité. Pendant le contrat, il conseille au vendeur d'ajuster le prix aux changements du marché : c'est le plan de baisse plus bas.
+
+**Le prix annoncé est celui du contrat de courtage** (art. 112 du même règlement).
 
 **Le courtier doit pouvoir justifier son prix.** Le prix recommandé s'appuie sur des comparables qu'il peut nommer et expliquer. **Les comparables restent au dossier** de la propriété : les PDF des trois niveaux, la date de l'extraction, l'analyse. L'OACIQ fait conserver les dossiers six ans après leur fermeture, et le défaut de tenue des dossiers est l'une des fautes les plus fréquentes, avec le défaut de conseil. Si une question ou une plainte arrive plus tard, c'est le dossier qui montre le conseil donné.
 

@@ -6,6 +6,10 @@ Formulez en termes de son travail, jamais en termes de compétences. Il ne veut 
 
 ---
 
+## Version 1.9.1, novembre 2026
+
+**Vos OVM citent maintenant l'OACIQ mot pour mot.** La règle sur le prix sous la valeur est celle de la page de l'OACIQ sur le juste prix de vente, avec les articles du règlement : une opinion fondée et motivée, les besoins et la situation du vendeur, le prix annoncé qui est celui du contrat.
+
 ## Version 1.9.0, novembre 2026
 
 **Vos OVM suivent maintenant la méthode OSE au complet.** Dites « fais-moi un OVM pour [adresse] ». Votre assistant sort vos comparables de Matrix en trois niveaux, toujours du moins cher au plus cher : la liste partielle qui montre l'offre et la demande, le 4 par page sur les propriétés qui ressemblent, et deux à quatre fiches détaillées avec photos. Il calcule les mois d'inventaire avec les repères du Québec, vous donne un prix réaliste et un prix optimiste avec leur base, et prépare le plan de baisse avant l'inscription. Il vous aide aussi à préparer la mise en marché (qui va acheter, pourquoi, et est-ce que la fiche le dit) et la rencontre avec le vendeur, où c'est lui qui voit le prix dans les comparables. Le document remis au vendeur est maintenant factuel et au vouvoiement. L'assistant ne propose plus de date d'offres, et ne recommande jamais d'afficher sous la valeur pour créer des offres multiples : l'OACIQ l'interdit.
